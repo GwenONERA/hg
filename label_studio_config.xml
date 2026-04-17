@@ -1,0 +1,27 @@
+<View>
+  <Header value="Segmentation des Émotions et Modes d'Expression" />
+  
+  <Labels name="label" toName="text" choice="multiple">
+    <!-- Émotions -->
+    <Label value="Admiration" background="#FFA07A"/>
+    <Label value="Culpabilité" background="#20B2AA"/>
+    <Label value="Embarras" background="#FF69B4"/>
+    <Label value="Fierté" background="#8A2BE2"/>
+    <Label value="Jalousie" background="#00FF7F"/>
+    <Label value="Autre" background="#A9A9A9"/>
+    <Label value="Colère" background="#FF4500"/>
+    <Label value="Dégoût" background="#556B2F"/>
+    <Label value="Joie" background="#FFD700"/>
+    <Label value="Peur" background="#483D8B"/>
+    <Label value="Surprise" background="#00CED1"/>
+    <Label value="Tristesse" background="#4682B4"/>
+
+    <!-- Modes -->
+    <Label value="Comportementale" background="#F0E68C"/>
+    <Label value="Designee" background="#DDA0DD"/>
+    <Label value="Montree" background="#FF6347"/>
+    <Label value="Suggeree" background="#3CB371"/>
+  </Labels>
+
+  <Text name="text" value="$text" />
+</View>

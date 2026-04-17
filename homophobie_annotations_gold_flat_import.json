@@ -1,0 +1,1824 @@
+[
+  {
+    "data": {
+      "text": "Alors julie t'ai dégeulasse de sortir avec une gadji bande de salopes",
+      "source": "homophobie_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "7d583738",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 17,
+              "end": 27,
+              "text": "dégeulasse",
+              "labels": [
+                "Dégoût",
+                "Montrée"
+              ]
+            }
+          },
+          {
+            "id": "b154f779",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 53,
+              "end": 69,
+              "text": "bande de salopes",
+              "labels": [
+                "Colère",
+                "Montrée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "allo mme est homophobe",
+      "source": "homophobie_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "mais tu veut quoi toi retourne avec ta gadji et assume au passant que vous ètent lesbiennes sa dégouteeee",
+      "source": "homophobie_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "9d80e8c5",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 92,
+              "end": 105,
+              "text": "sa dégouteeee",
+              "labels": [
+                "Dégoût",
+                "Désignée"
+              ]
+            }
+          },
+          {
+            "id": "f1696a79",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 92,
+              "end": 105,
+              "text": "sa dégouteeee",
+              "labels": [
+                "Dégoût",
+                "Montrée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": " on est pas ensemble déjà puis même si c'était le cas,  ça ne te regarde pas et je vois pas en quoi ça te concerne",
+      "source": "homophobie_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "00f9c527",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 56,
+              "end": 76,
+              "text": "ça ne te regarde pas",
+              "labels": [
+                "Colère",
+                "Comportementale"
+              ]
+            }
+          },
+          {
+            "id": "57786523",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 80,
+              "end": 114,
+              "text": "je vois pas en quoi ça te concerne",
+              "labels": [
+                "Colère",
+                "Comportementale"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "mais grave bande de lesbiennes vous degoutée aaaaah",
+      "source": "homophobie_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "5f479397",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 11,
+              "end": 30,
+              "text": "bande de lesbiennes",
+              "labels": [
+                "Dégoût",
+                "Montrée"
+              ]
+            }
+          },
+          {
+            "id": "9663dd0d",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 31,
+              "end": 44,
+              "text": "vous degoutée",
+              "labels": [
+                "Dégoût",
+                "Désignée"
+              ]
+            }
+          },
+          {
+            "id": "0baf7886",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 45,
+              "end": 51,
+              "text": "aaaaah",
+              "labels": [
+                "Dégoût",
+                "Montrée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "mais olalala frr assume t'aime les ch*ttes mais tu dégoute meme anna elle le dit",
+      "source": "homophobie_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "ec5937ef",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 5,
+              "end": 12,
+              "text": "olalala",
+              "labels": [
+                "Dégoût",
+                "Montrée"
+              ]
+            }
+          },
+          {
+            "id": "dbfcccf5",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 48,
+              "end": 58,
+              "text": "tu dégoute",
+              "labels": [
+                "Dégoût",
+                "Désignée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "laissé la tranquille elle n'est pas avec elle elle vous a dit",
+      "source": "homophobie_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "mais assumer vous degouter bande de crasseuse",
+      "source": "homophobie_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "1d0188f3",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 13,
+              "end": 26,
+              "text": "vous degouter",
+              "labels": [
+                "Dégoût",
+                "Désignée"
+              ]
+            }
+          },
+          {
+            "id": "b5ada814",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 27,
+              "end": 45,
+              "text": "bande de crasseuse",
+              "labels": [
+                "Dégoût",
+                "Montrée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "mais ya eu des photos pk elle mito",
+      "source": "homophobie_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "grave on a tous vu",
+      "source": "homophobie_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "grosse crasseuse",
+      "source": "homophobie_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "74a5fd61",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 16,
+              "text": "grosse crasseuse",
+              "labels": [
+                "Dégoût",
+                "Montrée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "grave abuser vous me degoutez",
+      "source": "homophobie_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "87117c4f",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 13,
+              "end": 29,
+              "text": "vous me degoutez",
+              "labels": [
+                "Dégoût",
+                "Désignée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "putain mais laissez nous tranquille jvous dis qu'on est pas ensemble point",
+      "source": "homophobie_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "024ded12",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 6,
+              "text": "putain",
+              "labels": [
+                "Colère",
+                "Montrée"
+              ]
+            }
+          },
+          {
+            "id": "90322522",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 12,
+              "end": 35,
+              "text": "laissez nous tranquille",
+              "labels": [
+                "Colère",
+                "Comportementale"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "mais assume grosse pute",
+      "source": "homophobie_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "daf17a6d",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 12,
+              "end": 23,
+              "text": "grosse pute",
+              "labels": [
+                "Colère",
+                "Montrée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "wshhh elodie dit leur on a vu leur sal photo",
+      "source": "homophobie_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "5d0a7c15",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 35,
+              "end": 44,
+              "text": "sal photo",
+              "labels": [
+                "Dégoût",
+                "Montrée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": " tu m'étonnes que vous l'avez vue,  c'est vous qu'il l'avez prises connasses",
+      "source": "homophobie_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "ece6dc85",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 67,
+              "end": 76,
+              "text": "connasses",
+              "labels": [
+                "Colère",
+                "Montrée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "ftg grosse salope",
+      "source": "homophobie_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "tu sais dire d'autres choses à part ça ?",
+      "source": "homophobie_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "anna bebe t ou",
+      "source": "homophobie_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "ça se fait pas en plus de prendre en photos",
+      "source": "homophobie_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "mais cest des gouines",
+      "source": "homophobie_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "et toi tu sais que la vie c'est homme femme pas femme femme salope",
+      "source": "homophobie_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": " on est pas gouines,  je lui tenais la main pour la réconforter y a quoi ? laissez-nous vivre",
+      "source": "homophobie_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "68d400f6",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 64,
+              "end": 74,
+              "text": "y a quoi ?",
+              "labels": [
+                "Colère",
+                "Montrée"
+              ]
+            }
+          },
+          {
+            "id": "7d16702b",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 75,
+              "end": 93,
+              "text": "laissez-nous vivre",
+              "labels": [
+                "Colère",
+                "Comportementale"
+              ]
+            }
+          },
+          {
+            "id": "7703e8a8",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 22,
+              "end": 63,
+              "text": "je lui tenais la main pour la réconforter",
+              "labels": [
+                "Autre",
+                "Comportementale"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "assume c pas compliquer",
+      "source": "homophobie_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "bande de gouines",
+      "source": "homophobie_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "la réconforter et la galoche après",
+      "source": "homophobie_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "bande de crasseuse",
+      "source": "homophobie_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "taimes les filles",
+      "source": "homophobie_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": " y'a rien à assumer,  puisqu'y a r",
+      "source": "homophobie_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "burk sa me degoute",
+      "source": "homophobie_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "mellez-vous de votre cul",
+      "source": "homophobie_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "assume que t'aime les filles c tout connasse",
+      "source": "homophobie_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "elle etait juste en train de la rassurer cest rien",
+      "source": "homophobie_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "cul de crasseuse",
+      "source": "homophobie_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "6737eace",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 16,
+              "text": "cul de crasseuse",
+              "labels": [
+                "Dégoût",
+                "Montrée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "on fait ce qu'on veut grosse chienne",
+      "source": "homophobie_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "tg saloppe",
+      "source": "homophobie_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "marie tg",
+      "source": "homophobie_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "grosse pute va",
+      "source": "homophobie_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "saloperie",
+      "source": "homophobie_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "face67c4",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 9,
+              "text": "saloperie",
+              "labels": [
+                "Dégoût",
+                "Montrée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "on dit que la vérité grosse pute",
+      "source": "homophobie_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "chienne que tes ont aimes pas les lesbienne ici",
+      "source": "homophobie_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "bref venais on les vire de la classe c'est grosse crasseuse",
+      "source": "homophobie_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "3ad42ff5",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 43,
+              "end": 59,
+              "text": "grosse crasseuse",
+              "labels": [
+                "Dégoût",
+                "Montrée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "qui les supp du groupe la",
+      "source": "homophobie_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "je vais les supprimer",
+      "source": "homophobie_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "on veut pas de sa ici",
+      "source": "homophobie_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "a2d828ba",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 21,
+              "text": "on veut pas de sa ici",
+              "labels": [
+                "Colère",
+                "Comportementale"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "grave pas de crasseuse",
+      "source": "homophobie_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "ba9d813d",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 13,
+              "end": 22,
+              "text": "crasseuse",
+              "labels": [
+                "Dégoût",
+                "Montrée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "enfiiin",
+      "source": "homophobie_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "me degoute",
+      "source": "homophobie_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "burk bande de chienne",
+      "source": "homophobie_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "dde16aca",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 4,
+              "text": "burk",
+              "labels": [
+                "Dégoût",
+                "Montrée"
+              ]
+            }
+          },
+          {
+            "id": "8bed0d76",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 5,
+              "end": 21,
+              "text": "bande de chienne",
+              "labels": [
+                "Colère",
+                "Montrée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "c'est bon chacun fait ce qu'il veut aucune d'entre vous n'aimerait faire faire insulter alors pourquoi vous continuer",
+      "source": "homophobie_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "ça se voit vous êtes pas des potes si ça vous est jamais de réconforter votre pote",
+      "source": "homophobie_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "6e4719bd",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 82,
+              "text": "ça se voit vous êtes pas des potes si ça vous est jamais de réconforter votre pote",
+              "labels": [
+                "Colère",
+                "Suggérée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "on sen blkkkkk mais fort",
+      "source": "homophobie_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "mais ftg",
+      "source": "homophobie_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "bah alors tais-toi et laisse-nous vivre",
+      "source": "homophobie_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "e155a517",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 10,
+              "end": 39,
+              "text": "tais-toi et laisse-nous vivre",
+              "labels": [
+                "Colère",
+                "Comportementale"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "assume que t gouine c tout grosse pute va",
+      "source": "homophobie_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "faut assumer frr",
+      "source": "homophobie_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "mais c'est pas notre pote  deja",
+      "source": "homophobie_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "lvdm assume saliope",
+      "source": "homophobie_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "c'est quoi le rapport entre être gouine et être une pute ?",
+      "source": "homophobie_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "salope",
+      "source": "homophobie_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "pute et gouine cla meme",
+      "source": "homophobie_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "4a247fbf",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 4,
+              "text": "pute",
+              "labels": [
+                "Dégoût",
+                "Montrée"
+              ]
+            }
+          },
+          {
+            "id": "3ce54e4b",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 8,
+              "end": 14,
+              "text": "gouine",
+              "labels": [
+                "Dégoût",
+                "Montrée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "ça te dérange si c'était le cas ?",
+      "source": "homophobie_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "ftg",
+      "source": "homophobie_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "oui les garcons avec les filles pas filleet fille c degeulasse",
+      "source": "homophobie_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "grave vous me degouter",
+      "source": "homophobie_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "t'as un problème va te faire soigner sale homophobe",
+      "source": "homophobie_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "exactement stv on te fait un cour crasseuse",
+      "source": "homophobie_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "c toi ta un problème grosse pute",
+      "source": "homophobie_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "33a31a3c",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 21,
+              "end": 32,
+              "text": "grosse pute",
+              "labels": [
+                "Colère",
+                "Montrée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "mais calmez-vous chaqu'un s'est préférence",
+      "source": "homophobie_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "ftg c toi la gouine tu parle avec nous sombre pute wallah t ki",
+      "source": "homophobie_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "on va dire a un gadjo de la violer sa va lui remettre les idée en place",
+      "source": "homophobie_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "dada61b7",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 71,
+              "text": "on va dire a un gadjo de la violer sa va lui remettre les idée en place",
+              "labels": [
+                "Colère",
+                "Comportementale"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "graaave",
+      "source": "homophobie_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "mais grave wlh",
+      "source": "homophobie_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "elles vont voir ce que c de ce faire peter le q",
+      "source": "homophobie_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "bande de pute va mais grave elle vont voir",
+      "source": "homophobie_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "mais t'es une grande malade toi",
+      "source": "homophobie_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "un zizi pas de chatte",
+      "source": "homophobie_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "t'as des problèmes pour dire des choses pareil",
+      "source": "homophobie_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "58955da8",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 18,
+              "text": "t'as des problèmes",
+              "labels": [
+                "Colère",
+                "Montrée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": ":') :') :') :') :') :')",
+      "source": "homophobie_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "tu te rends compte de ce que tu dis là ??",
+      "source": "homophobie_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "9e4f3a39",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 41,
+              "text": "tu te rends compte de ce que tu dis là ??",
+              "labels": [
+                "Colère",
+                "Montrée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "je rigole roh",
+      "source": "homophobie_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "ftg tu vas kiffer",
+      "source": "homophobie_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "12b7e8b9",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 3,
+              "text": "ftg",
+              "labels": [
+                "Colère",
+                "Montrée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "un peu d'humour",
+      "source": "homophobie_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "ptdrrr grvvv et arthur ta channgé jte croyais pas comme sa quoi toiausssi tai pd",
+      "source": "homophobie_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "0436d7df",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 23,
+              "end": 73,
+              "text": "ta channgé jte croyais pas comme sa quoi toiausssi",
+              "labels": [
+                "Dégoût",
+                "Suggérée"
+              ]
+            }
+          },
+          {
+            "id": "72b5b5ab",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 78,
+              "end": 80,
+              "text": "pd",
+              "labels": [
+                "Colère",
+                "Montrée"
+              ]
+            }
+          },
+          {
+            "id": "139ba082",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 6,
+              "text": "ptdrrr",
+              "labels": [
+                "Joie",
+                "Montrée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": " mais arrêter c'est exessif la vous aimeriez etre a sa place et qu'on vous dises la meme chose ?! Non,  parce que personne ne mérite ca ",
+      "source": "homophobie_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "2d7ad4af",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 6,
+              "end": 30,
+              "text": "arrêter c'est exessif la",
+              "labels": [
+                "Colère",
+                "Montrée"
+              ]
+            }
+          },
+          {
+            "id": "060ce3e1",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 31,
+              "end": 97,
+              "text": "vous aimeriez etre a sa place et qu'on vous dises la meme chose ?!",
+              "labels": [
+                "Colère",
+                "Montrée"
+              ]
+            }
+          },
+          {
+            "id": "534bdfdc",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 114,
+              "end": 135,
+              "text": "personne ne mérite ca",
+              "labels": [
+                "Tristesse",
+                "Suggérée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "ouais arthur xsh t sah",
+      "source": "homophobie_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "mais grave putain c chaud",
+      "source": "homophobie_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": " allo le viol c'est pas une blague grosse bouffonne,  va falloir avoir des valeurs un peu là un minimum",
+      "source": "homophobie_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "laissé la tranquille elle a le droit d'aimer qui elle veut",
+      "source": "homophobie_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "c une blague les gens qui retournent leur veste la tous des hypocrites la",
+      "source": "homophobie_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "9bbfcb18",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 12,
+              "text": "c une blague",
+              "labels": [
+                "Colère",
+                "Montrée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "mais grave que des traitres",
+      "source": "homophobie_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "03f6d949",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 10,
+              "text": "mais grave",
+              "labels": [
+                "Colère",
+                "Montrée"
+              ]
+            }
+          },
+          {
+            "id": "4df7c74a",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 11,
+              "end": 27,
+              "text": "que des traitres",
+              "labels": [
+                "Colère",
+                "Montrée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "on est pas de fucking monde",
+      "source": "homophobie_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": " si vous ne disiez pas n'importe quoi aussi,  les gens seraient peut-êtr eun peu avec vous",
+      "source": "homophobie_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "dafa0717",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 1,
+              "end": 90,
+              "text": "si vous ne disiez pas n'importe quoi aussi,  les gens seraient peut-êtr eun peu avec vous",
+              "labels": [
+                "Colère",
+                "Suggérée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "ptddddrrrrrrr mais la blague",
+      "source": "homophobie_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "e966bc5b",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 13,
+              "text": "ptddddrrrrrrr",
+              "labels": [
+                "Joie",
+                "Montrée"
+              ]
+            }
+          },
+          {
+            "id": "34d9cecf",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 14,
+              "end": 28,
+              "text": "mais la blague",
+              "labels": [
+                "Joie",
+                "Montrée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "rien a foutre PAS DE GOUINE ICI",
+      "source": "homophobie_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "42c29c21",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 13,
+              "text": "rien a foutre",
+              "labels": [
+                "Colère",
+                "Montrée"
+              ]
+            }
+          },
+          {
+            "id": "e562fc32",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 14,
+              "end": 31,
+              "text": "PAS DE GOUINE ICI",
+              "labels": [
+                "Dégoût",
+                "Montrée"
+              ]
+            }
+          },
+          {
+            "id": "dceac30b",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 13,
+              "text": "rien a foutre",
+              "labels": [
+                "Colère",
+                "Montrée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "bande de crasseux meme arthur on va te degager de la classe",
+      "source": "homophobie_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "226cd2a4",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 17,
+              "text": "bande de crasseux",
+              "labels": [
+                "Colère",
+                "Montrée"
+              ]
+            }
+          },
+          {
+            "id": "37951611",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 30,
+              "end": 59,
+              "text": "on va te degager de la classe",
+              "labels": [
+                "Colère",
+                "Comportementale"
+              ]
+            }
+          },
+          {
+            "id": "f3d8821f",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 17,
+              "text": "bande de crasseux",
+              "labels": [
+                "Colère",
+                "Montrée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": " mais vous allez trop loin,  vous dites n'importes quoi alors vous méritez les deux connasses",
+      "source": "homophobie_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "on va pas de sa iciiiii merde",
+      "source": "homophobie_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "STOP LESBIENNES !!!!",
+      "source": "homophobie_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "DEHORSSSSS",
+      "source": "homophobie_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "tchaoooooo",
+      "source": "homophobie_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "allez-y dégagez nous vous allez faire quoi ?",
+      "source": "homophobie_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "c'est les homophobes qu'on dégage pas nous",
+      "source": "homophobie_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "7e45903e",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 42,
+              "text": "c'est les homophobes qu'on dégage pas nous",
+              "labels": [
+                "Colère",
+                "Comportementale"
+              ]
+            }
+          },
+          {
+            "id": "9d2cb872",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 10,
+              "end": 20,
+              "text": "homophobes",
+              "labels": [
+                "Colère",
+                "Suggérée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,2568 @@
+[
+  {
+    "data": {
+      "text": "salut pourquoi embête tu ma copine ?",
+      "source": "religion_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "ad95c703",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 6,
+              "end": 36,
+              "text": "pourquoi embête tu ma copine ?",
+              "labels": [
+                "Colère",
+                "Comportementale"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "franchement les gars faut arreter avec justine elle a r demande",
+      "source": "religion_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "6d7701bf",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 47,
+              "end": 63,
+              "text": "elle a r demande",
+              "labels": [
+                "Colère",
+                "Suggérée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "c'est marrant de se moquer",
+      "source": "religion_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "8779cd97",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 26,
+              "text": "c'est marrant de se moquer",
+              "labels": [
+                "Joie",
+                "Désignée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "ptn la maturite",
+      "source": "religion_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "e2e2218e",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 15,
+              "text": "ptn la maturite",
+              "labels": [
+                "Colère",
+                "Montrée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "alors ton argument c'est que ça te fait rire ? sérieusement je te pensez plus inintelligente",
+      "source": "religion_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "en même elle cherche",
+      "source": "religion_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "bah oue si t'es pas drole c'est ton probleme",
+      "source": "religion_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "je savais pas que rire de la religion des gens etait marrant remettez vous en question",
+      "source": "religion_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "f7a19db9",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 61,
+              "end": 86,
+              "text": "remettez vous en question",
+              "labels": [
+                "Colère",
+                "Comportementale"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "elle publie des photos comme ça faut pas s'étonnerd",
+      "source": "religion_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "c clair la religion c privé",
+      "source": "religion_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "j'avoue on s'en fou de ton ptit frere le juif",
+      "source": "religion_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "6177c711",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 8,
+              "end": 45,
+              "text": "on s'en fou de ton ptit frere le juif",
+              "labels": [
+                "Dégoût",
+                "Désignée"
+              ]
+            }
+          },
+          {
+            "id": "6b9f4294",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 38,
+              "end": 45,
+              "text": "le juif",
+              "labels": [
+                "Dégoût",
+                "Montrée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "ba pk tu t'affiches",
+      "source": "religion_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "et on s'en fout de savoir qui croit quoi",
+      "source": "religion_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "c5849075",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 3,
+              "end": 40,
+              "text": "on s'en fout de savoir qui croit quoi",
+              "labels": [
+                "Colère",
+                "Montrée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "parce qu'elle etait fiere de lui vous postez bien des photos de votre vie et pourtant on s'en fou",
+      "source": "religion_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "0b2b79a0",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 9,
+              "end": 32,
+              "text": "elle etait fiere de lui",
+              "labels": [
+                "Fierté",
+                "Désignée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Vs êtes complexés ou quoi pour lui parler comme ca",
+      "source": "religion_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "7ba7df64",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 50,
+              "text": "Vs êtes complexés ou quoi pour lui parler comme ca",
+              "labels": [
+                "Colère",
+                "Montrée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "oui, je suis fière de mon petit frère tout comme vous vous l'êtes de votre famille",
+      "source": "religion_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "4c69b841",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 5,
+              "end": 37,
+              "text": "je suis fière de mon petit frère",
+              "labels": [
+                "Fierté",
+                "Désignée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Laisser la trkl nn vs avez pas une vie",
+      "source": "religion_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "d71d1755",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 15,
+              "text": "Laisser la trkl",
+              "labels": [
+                "Colère",
+                "Comportementale"
+              ]
+            }
+          },
+          {
+            "id": "d57ac945",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 16,
+              "end": 18,
+              "text": "nn",
+              "labels": [
+                "Colère",
+                "Montrée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "bah nan mais on s'en fou de sa vie ou de sa religion",
+      "source": "religion_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "a570f242",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 13,
+              "end": 52,
+              "text": "on s'en fou de sa vie ou de sa religion",
+              "labels": [
+                "Dégoût",
+                "Désignée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "de ouf vivez votre vie on s'en tape de ce que vous pensez",
+      "source": "religion_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "c2d23a47",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 22,
+              "text": "de ouf vivez votre vie",
+              "labels": [
+                "Colère",
+                "Montrée"
+              ]
+            }
+          },
+          {
+            "id": "7e6354da",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 23,
+              "end": 57,
+              "text": "on s'en tape de ce que vous pensez",
+              "labels": [
+                "Colère",
+                "Montrée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "grv on s'en fou",
+      "source": "religion_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "e110924a",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 15,
+              "text": "grv on s'en fou",
+              "labels": [
+                "Colère",
+                "Montrée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "j'avoue",
+      "source": "religion_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "bah oe bah elle elle s'en fou de ton avis alors tourne ta langue 7 fois avant de parler",
+      "source": "religion_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "3b99e3bb",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 48,
+              "end": 87,
+              "text": "tourne ta langue 7 fois avant de parler",
+              "labels": [
+                "Colère",
+                "Comportementale"
+              ]
+            }
+          },
+          {
+            "id": "8fb5d0e5",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 16,
+              "end": 41,
+              "text": "elle s'en fou de ton avis",
+              "labels": [
+                "Colère",
+                "Suggérée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "d'ou tu t'interesse a sa vie laisse la tranquille fr",
+      "source": "religion_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "735d133a",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 29,
+              "end": 49,
+              "text": "laisse la tranquille",
+              "labels": [
+                "Colère",
+                "Comportementale"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "bravo isabelle et paul les moutons ça avance en troupeau j'avais oublié",
+      "source": "religion_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "72780a13",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 23,
+              "end": 56,
+              "text": "les moutons ça avance en troupeau",
+              "labels": [
+                "Dégoût",
+                "Montrée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "j'avoue",
+      "source": "religion_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "mais elle s'affiche donc faut pas s'étonner elle cherche",
+      "source": "religion_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "d4a2b1f8",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 44,
+              "end": 56,
+              "text": "elle cherche",
+              "labels": [
+                "Colère",
+                "Suggérée"
+              ]
+            }
+          },
+          {
+            "id": "3234fbe8",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 25,
+              "end": 43,
+              "text": "faut pas s'étonner",
+              "labels": [
+                "Surprise",
+                "Désignée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "elle s'affiche si elle veut",
+      "source": "religion_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "ca6ecab6",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 27,
+              "text": "elle s'affiche si elle veut",
+              "labels": [
+                "Colère",
+                "Comportementale"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "et alors c'es juste une photo okalme",
+      "source": "religion_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "mais c'est une blague j'espère elle fait ce qu'elle veut ca vous regarde pas",
+      "source": "religion_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "29910021",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 57,
+              "end": 76,
+              "text": "ca vous regarde pas",
+              "labels": [
+                "Colère",
+                "Comportementale"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "je ne m'affiche pas, je poste juste une photo de mon petit frère, ça n'a rien d'anormal ni choquant, vous ne postez jamais des photos de votre famille ?",
+      "source": "religion_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "2789369e",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 66,
+              "end": 99,
+              "text": "ça n'a rien d'anormal ni choquant",
+              "labels": [
+                "Colère",
+                "Suggérée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "mais laisse tomber ils sont jaloux",
+      "source": "religion_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "59e7933e",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 19,
+              "end": 34,
+              "text": "ils sont jaloux",
+              "labels": [
+                "Jalousie",
+                "Désignée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "si me j suis pas juif",
+      "source": "religion_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "elle fait ce qu'elle veut ou pas je m'en fou mais la elle s'affiche juste on s'en fou de sa vie",
+      "source": "religion_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "9d718ad3",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 33,
+              "end": 44,
+              "text": "je m'en fou",
+              "labels": [
+                "Autre",
+                "Désignée"
+              ]
+            }
+          },
+          {
+            "id": "bb8b9e44",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 74,
+              "end": 95,
+              "text": "on s'en fou de sa vie",
+              "labels": [
+                "Autre",
+                "Désignée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "jaloux de quoi même",
+      "source": "religion_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "b810d3dc",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 6,
+              "text": "jaloux",
+              "labels": [
+                "Jalousie",
+                "Désignée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "et alors ? ça change quoi la religion à laquelle tu appartiens ? ca reste toujours mon petit frère",
+      "source": "religion_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "92ebda5b",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 11,
+              "end": 64,
+              "text": "ça change quoi la religion à laquelle tu appartiens ?",
+              "labels": [
+                "Colère",
+                "Comportementale"
+              ]
+            }
+          },
+          {
+            "id": "6caf75cd",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 65,
+              "end": 98,
+              "text": "ca reste toujours mon petit frère",
+              "labels": [
+                "Autre",
+                "Suggérée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "mais ftg on t,as deja dit qu'on s'en foutais de ton avis trop tu parles",
+      "source": "religion_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "610b0f85",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 5,
+              "end": 8,
+              "text": "ftg",
+              "labels": [
+                "Colère",
+                "Montrée"
+              ]
+            }
+          },
+          {
+            "id": "aa0c70f6",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 57,
+              "end": 71,
+              "text": "trop tu parles",
+              "labels": [
+                "Colère",
+                "Montrée"
+              ]
+            }
+          },
+          {
+            "id": "a4d94e1b",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 9,
+              "end": 56,
+              "text": "on t,as deja dit qu'on s'en foutais de ton avis",
+              "labels": [
+                "Colère",
+                "Comportementale"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "et toi ta religion ? on ne t'embête pas pour savoir ce en quoi tu crois, si ?",
+      "source": "religion_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "ae6e0528",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 77,
+              "text": "et toi ta religion ? on ne t'embête pas pour savoir ce en quoi tu crois, si ?",
+              "labels": [
+                "Colère",
+                "Montrée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "ce n'est pas la peine qu'on s'insulte pour ça",
+      "source": "religion_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "24e89412",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 45,
+              "text": "ce n'est pas la peine qu'on s'insulte pour ça",
+              "labels": [
+                "Colère",
+                "Comportementale"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "juif!",
+      "source": "religion_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "allez pas nous sortir des on s'en fou de sa vie quand vous publiez des photos de vos vieilles soirées",
+      "source": "religion_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "c9c0ebf9",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 101,
+              "text": "allez pas nous sortir des on s'en fou de sa vie quand vous publiez des photos de vos vieilles soirées",
+              "labels": [
+                "Colère",
+                "Comportementale"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "deja ton ptit frere on lui a couper le zizi c'est plus un homme",
+      "source": "religion_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "au cachot guillaume",
+      "source": "religion_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "et alors, je ne te crie pas \"catho\" à la g si ?",
+      "source": "religion_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "bc545fe7",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 10,
+              "end": 47,
+              "text": "je ne te crie pas \"catho\" à la g si ?",
+              "labels": [
+                "Colère",
+                "Comportementale"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "etre méchant c'est mal les gars",
+      "source": "religion_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "f325cbbc",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 22,
+              "text": "etre méchant c'est mal",
+              "labels": [
+                "Colère",
+                "Désignée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "mdr leo y veut jouer a la plus grosse avec ton ptit frr il a vrmt un prblm t,es complexer par la tienne",
+      "source": "religion_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "3b6382c2",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 56,
+              "end": 74,
+              "text": "il a vrmt un prblm",
+              "labels": [
+                "Colère",
+                "Montrée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "on est d'abord des êtres humains après les croyances ça regarde pas les autres, c'est la vie privée, la famille",
+      "source": "religion_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "au pire les harceleurs allez vous faire foutre",
+      "source": "religion_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "9276aa34",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 23,
+              "end": 46,
+              "text": "allez vous faire foutre",
+              "labels": [
+                "Colère",
+                "Montrée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "comment ça mon reuf ta craqé",
+      "source": "religion_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "633fe512",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 20,
+              "end": 28,
+              "text": "ta craqé",
+              "labels": [
+                "Surprise",
+                "Suggérée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "kestu veux toi casse toi",
+      "source": "religion_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "bea242bf",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 24,
+              "text": "kestu veux toi casse toi",
+              "labels": [
+                "Colère",
+                "Montrée"
+              ]
+            }
+          },
+          {
+            "id": "f96b3ffc",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 24,
+              "text": "kestu veux toi casse toi",
+              "labels": [
+                "Colère",
+                "Comportementale"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "feur",
+      "source": "religion_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "ftg leo",
+      "source": "religion_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "0cb37d00",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 7,
+              "text": "ftg leo",
+              "labels": [
+                "Colère",
+                "Montrée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "vas y vous avez pas de vie",
+      "source": "religion_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "cec105dc",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 6,
+              "end": 26,
+              "text": "vous avez pas de vie",
+              "labels": [
+                "Mépris",
+                "Montrée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "raconte pas ta vie leo",
+      "source": "religion_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "soyez sympa come les bisou nours",
+      "source": "religion_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "7c857175",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 32,
+              "text": "soyez sympa come les bisou nours",
+              "labels": [
+                "Joie",
+                "Désignée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "apprenez a écrire avant de raconter de la merde",
+      "source": "religion_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "faf5c53e",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 36,
+              "end": 47,
+              "text": "de la merde",
+              "labels": [
+                "Colère",
+                "Montrée"
+              ]
+            }
+          },
+          {
+            "id": "9c4ef2bb",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 36,
+              "end": 47,
+              "text": "de la merde",
+              "labels": [
+                "Dégoût",
+                "Montrée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "paul mais casse toi laisse la juive se defendre seul",
+      "source": "religion_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "12cff826",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 10,
+              "end": 19,
+              "text": "casse toi",
+              "labels": [
+                "Colère",
+                "Montrée"
+              ]
+            }
+          },
+          {
+            "id": "805bf53b",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 27,
+              "end": 35,
+              "text": "la juive",
+              "labels": [
+                "Dégoût",
+                "Montrée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "je veux pas faire bisous a un juif",
+      "source": "religion_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "1b50b701",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 34,
+              "text": "je veux pas faire bisous a un juif",
+              "labels": [
+                "Dégoût",
+                "Comportementale"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "vous êtes graves, je suis Justine et pas la juive, je suis une personne et pas quelqu'un à anéantir",
+      "source": "religion_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "343399c7",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 16,
+              "text": "vous êtes graves",
+              "labels": [
+                "Colère",
+                "Montrée"
+              ]
+            }
+          },
+          {
+            "id": "7be5daf4",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 18,
+              "end": 99,
+              "text": "je suis Justine et pas la juive, je suis une personne et pas quelqu'un à anéantir",
+              "labels": [
+                "Colère",
+                "Comportementale"
+              ]
+            }
+          },
+          {
+            "id": "7aabe327",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 75,
+              "end": 99,
+              "text": "pas quelqu'un à anéantir",
+              "labels": [
+                "Colère",
+                "Comportementale"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "meme sur la joue",
+      "source": "religion_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "vous en aurai jamais de toute façon arrêter",
+      "source": "religion_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "2ddda630",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 35,
+              "text": "vous en aurai jamais de toute façon",
+              "labels": [
+                "Dégoût",
+                "Montrée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "bah mdr peut etre elle veut te faire un bisou elle",
+      "source": "religion_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "toute facon la juive et ses gardes du corps on s'en fou de vos vie postez vos photos de merde ailleurs",
+      "source": "religion_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "24fdc81e",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 12,
+              "end": 20,
+              "text": "la juive",
+              "labels": [
+                "Colère",
+                "Montrée"
+              ]
+            }
+          },
+          {
+            "id": "397e2a8b",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 67,
+              "end": 102,
+              "text": "postez vos photos de merde ailleurs",
+              "labels": [
+                "Colère",
+                "Montrée"
+              ]
+            }
+          },
+          {
+            "id": "40a134ca",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 12,
+              "end": 20,
+              "text": "la juive",
+              "labels": [
+                "Dégoût",
+                "Montrée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "mais ça te fait quoi que je sois juive, en quoi ça te dérange ?",
+      "source": "religion_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "f7cdb00b",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 48,
+              "end": 61,
+              "text": "ça te dérange",
+              "labels": [
+                "Colère",
+                "Désignée"
+              ]
+            }
+          },
+          {
+            "id": "f62d5c54",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 63,
+              "text": "mais ça te fait quoi que je sois juive, en quoi ça te dérange ?",
+              "labels": [
+                "Colère",
+                "Montrée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "bah regarde ailleurs alors",
+      "source": "religion_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "bdb0b1c9",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 26,
+              "text": "bah regarde ailleurs alors",
+              "labels": [
+                "Colère",
+                "Montrée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "mais c'est toi tu donnes ton avis depuis tt a l'heure alors qu'on s'en bat les couilles et si tu t'en fous casse toi et arrete de parler",
+      "source": "religion_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "91017d6e",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 63,
+              "end": 87,
+              "text": "on s'en bat les couilles",
+              "labels": [
+                "Colère",
+                "Montrée"
+              ]
+            }
+          },
+          {
+            "id": "db7356aa",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 107,
+              "end": 136,
+              "text": "casse toi et arrete de parler",
+              "labels": [
+                "Colère",
+                "Comportementale"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "toi quand tu poste des photos on donne pa s notre avis",
+      "source": "religion_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "5c6acb70",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 54,
+              "text": "toi quand tu poste des photos on donne pa s notre avis",
+              "labels": [
+                "Colère",
+                "Suggérée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "oue retourne a jerusalem",
+      "source": "religion_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "va faire ta vie si t'en a une parce que j'ai des doutes",
+      "source": "religion_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "6c18821c",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 55,
+              "text": "va faire ta vie si t'en a une parce que j'ai des doutes",
+              "labels": [
+                "Colère",
+                "Montrée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Mais tun'es  meme pas capable de répondre à ma question, ça vous fait quoi que je sois juive ?",
+      "source": "religion_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "e43e9289",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 57,
+              "end": 94,
+              "text": "ça vous fait quoi que je sois juive ?",
+              "labels": [
+                "Colère",
+                "Suggérée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "laisse tomber ila 0 reparti",
+      "source": "religion_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "2e952617",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 27,
+              "text": "laisse tomber ila 0 reparti",
+              "labels": [
+                "Colère",
+                "Montrée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "ba ca nous dérange",
+      "source": "religion_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "a762a5a7",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 3,
+              "end": 18,
+              "text": "ca nous dérange",
+              "labels": [
+                "Colère",
+                "Désignée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "et pourquoi ?",
+      "source": "religion_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "ba t'es pas comme nous",
+      "source": "religion_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "on aime pas les juifs",
+      "source": "religion_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "ad924780",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 21,
+              "text": "on aime pas les juifs",
+              "labels": [
+                "Autre",
+                "Désignée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "bah on s'en balec que ca vs derange on vs demande pas votre avis",
+      "source": "religion_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "abb8132d",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 4,
+              "end": 17,
+              "text": "on s'en balec",
+              "labels": [
+                "Autre",
+                "Désignée"
+              ]
+            }
+          },
+          {
+            "id": "191ef079",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 36,
+              "end": 64,
+              "text": "on vs demande pas votre avis",
+              "labels": [
+                "Colère",
+                "Montrée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "alors poste pas sur internet si l'avis des gens te derange",
+      "source": "religion_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "448d94c9",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 58,
+              "text": "alors poste pas sur internet si l'avis des gens te derange",
+              "labels": [
+                "Colère",
+                "Montrée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "mais si je suis comme vous, rien ne change sauf pour mon mode de vie mais ça ne change rien à la vôtre, on vous laisse tranquille alors fichez nous la paix",
+      "source": "religion_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "93b786c1",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 136,
+              "end": 155,
+              "text": "fichez nous la paix",
+              "labels": [
+                "Colère",
+                "Comportementale"
+              ]
+            }
+          },
+          {
+            "id": "14a9c2d3",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 104,
+              "end": 155,
+              "text": "on vous laisse tranquille alors fichez nous la paix",
+              "labels": [
+                "Colère",
+                "Montrée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "tu fais tiep leo",
+      "source": "religion_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "perso je préfère être différente que vous ressembler et être une bande de mouton a suivre une personne raciste",
+      "source": "religion_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "87cd11ae",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 6,
+              "end": 52,
+              "text": "je préfère être différente que vous ressembler",
+              "labels": [
+                "Fierté",
+                "Désignée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "on ne vous oblige pas à être juifs donc ...",
+      "source": "religion_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "\\O/  : toi qui tient ta kipa",
+      "source": "religion_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "et alors qu'est-ce que ça peut te faire ? elle te gene en quoi la kipa ?",
+      "source": "religion_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "031fd8f3",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 41,
+              "text": "et alors qu'est-ce que ça peut te faire ?",
+              "labels": [
+                "Colère",
+                "Montrée"
+              ]
+            }
+          },
+          {
+            "id": "b59ee87e",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 42,
+              "end": 72,
+              "text": "elle te gene en quoi la kipa ?",
+              "labels": [
+                "Colère",
+                "Montrée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "mdr t'es quoi toi leo chrétien?",
+      "source": "religion_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "1d36df02",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 3,
+              "text": "mdr",
+              "labels": [
+                "Joie",
+                "Montrée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "nan athée",
+      "source": "religion_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "et alors on n'essaie pas de t'obliger à avoir une religion, pourquoi tu embêtes les autres ?",
+      "source": "religion_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "6d4803f9",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 60,
+              "end": 92,
+              "text": "pourquoi tu embêtes les autres ?",
+              "labels": [
+                "Colère",
+                "Comportementale"
+              ]
+            }
+          },
+          {
+            "id": "d99d7361",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 8,
+              "text": "et alors",
+              "labels": [
+                "Colère",
+                "Montrée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "ET C4EST QUOI TON PRBLM AVEC LES JUIFS",
+      "source": "religion_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "958f109c",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 38,
+              "text": "ET C4EST QUOI TON PRBLM AVEC LES JUIFS",
+              "labels": [
+                "Colère",
+                "Montrée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "une raisn de plus pour pas juger les religions des autres",
+      "source": "religion_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "BAS LES COUILLES",
+      "source": "religion_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "f6f6269b",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 16,
+              "text": "BAS LES COUILLES",
+              "labels": [
+                "Colère",
+                "Montrée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "ah ben le débat s'élève",
+      "source": "religion_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "non je suis tres calme et toi t'es juive",
+      "source": "religion_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "46f64a82",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 22,
+              "text": "non je suis tres calme",
+              "labels": [
+                "Autre",
+                "Désignée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": ":O",
+      "source": "religion_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "attention léo a des ptn d'arguments",
+      "source": "religion_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "8ee628ad",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 20,
+              "end": 35,
+              "text": "ptn d'arguments",
+              "labels": [
+                "Colère",
+                "Montrée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "tout ca pour ca jsuis decu",
+      "source": "religion_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "239c4d8c",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 16,
+              "end": 26,
+              "text": "jsuis decu",
+              "labels": [
+                "Tristesse",
+                "Désignée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "deçu de quoi ?",
+      "source": "religion_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "dec4c926",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 4,
+              "text": "deçu",
+              "labels": [
+                "Tristesse",
+                "Désignée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "laisse leur seul argumentation est qu'elle est juive waw bravo vous êtes allés a l'ecole",
+      "source": "religion_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "de7705b0",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 12,
+              "end": 52,
+              "text": "seul argumentation est qu'elle est juive",
+              "labels": [
+                "Colère",
+                "Suggérée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "c'est suffisant",
+      "source": "religion_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "c clair!",
+      "source": "religion_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "pas besoin de plus",
+      "source": "religion_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "ca reste très limité",
+      "source": "religion_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "ptn leo t'a pas d'autres choses a faire",
+      "source": "religion_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "pas pour aller faire le fiere et dénigrer les gens nan il a pas de vie",
+      "source": "religion_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "76d1bbe9",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 33,
+              "end": 50,
+              "text": "dénigrer les gens",
+              "labels": [
+                "Colère",
+                "Comportementale"
+              ]
+            }
+          },
+          {
+            "id": "573f04ac",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 55,
+              "end": 70,
+              "text": "il a pas de vie",
+              "labels": [
+                "Mépris",
+                "Montrée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "leo sale chien",
+      "source": "religion_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "f6316c42",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 4,
+              "end": 14,
+              "text": "sale chien",
+              "labels": [
+                "Colère",
+                "Montrée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "et kesta mon pote baise toi tu te prend pour jsp qui a prendre la defens ed'une juive casse toi",
+      "source": "religion_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "b29a3e30",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 18,
+              "end": 27,
+              "text": "baise toi",
+              "labels": [
+                "Colère",
+                "Montrée"
+              ]
+            }
+          },
+          {
+            "id": "88c6db51",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 86,
+              "end": 95,
+              "text": "casse toi",
+              "labels": [
+                "Colère",
+                "Montrée"
+              ]
+            }
+          },
+          {
+            "id": "b750747a",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 28,
+              "end": 52,
+              "text": "tu te prend pour jsp qui",
+              "labels": [
+                "Colère",
+                "Montrée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

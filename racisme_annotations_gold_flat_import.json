@@ -1,0 +1,4001 @@
+[
+  {
+    "data": {
+      "text": "ça lui fera de l'argent pour une fois qu'elle en aura",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "bande de jaloux",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "5204affc",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 9,
+              "end": 15,
+              "text": "jaloux",
+              "labels": [
+                "Jalousie",
+                "Désignée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "tu montre ton cu tassume",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "4215a1b5",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 24,
+              "text": "tu montre ton cu tassume",
+              "labels": [
+                "Colère",
+                "Montrée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "bh elle va aller porter plainte",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "66747201",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 3,
+              "end": 31,
+              "text": "elle va aller porter plainte",
+              "labels": [
+                "Colère",
+                "Suggérée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "tkt jai pas besoin de ton argent",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "c'est pas dans son pays qu'elle en aura :') :')",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "47dab051",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 47,
+              "text": "c'est pas dans son pays qu'elle en aura :') :')",
+              "labels": [
+                "Mépris",
+                "Suggérée"
+              ]
+            }
+          },
+          {
+            "id": "368ea527",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 40,
+              "end": 47,
+              "text": ":') :')",
+              "labels": [
+                "Joie",
+                "Montrée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "c dieu qui donne mon bebew",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "elle ira pas porter plainte",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "b8192a66",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 27,
+              "text": "elle ira pas porter plainte",
+              "labels": [
+                "Autre",
+                "Suggérée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "cmt tu sais ?",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "ben va porter plainte",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "exactement",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "on verra a la sorti",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "52520769",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 19,
+              "text": "on verra a la sorti",
+              "labels": [
+                "Colère",
+                "Suggérée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "mdr",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "kestu crois",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "lol",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "tkt je l'attendrais devant chez elle",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "2000a6a8",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 4,
+              "end": 36,
+              "text": "je l'attendrais devant chez elle",
+              "labels": [
+                "Colère",
+                "Comportementale"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "tu vas faire quoi",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "y aura rien a la sorti",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "je vais bien continuier avce pauline pour diffuser",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "interogatoir 2 heures et glaces a la plages apres",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "ils saven que parlé",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "theo on va te meler aussi",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "on va venir à plusieurs",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "4605281d",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 23,
+              "text": "on va venir à plusieurs",
+              "labels": [
+                "Colère",
+                "Suggérée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "derrière leur ecran la",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "et ta guele part terre ensuite",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "9ef1b670",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 3,
+              "end": 11,
+              "text": "ta guele",
+              "labels": [
+                "Colère",
+                "Montrée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "tkktt on t'attendra a 2 on te ntm",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "8b74926a",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 24,
+              "end": 33,
+              "text": "on te ntm",
+              "labels": [
+                "Colère",
+                "Montrée"
+              ]
+            }
+          },
+          {
+            "id": "68fcbb0d",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 6,
+              "end": 23,
+              "text": "on t'attendra a 2",
+              "labels": [
+                "Colère",
+                "Suggérée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "tkt pas en face je vais te montrer mon petit bijoux",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "tu nique personne",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "tu crois on a peur de toi t degun redesend",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "a54705d0",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 25,
+              "text": "tu crois on a peur de toi",
+              "labels": [
+                "Peur",
+                "Désignée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "mere teresa tg",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "f27db45f",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 11,
+              "text": "mere teresa",
+              "labels": [
+                "Colère",
+                "Montrée"
+              ]
+            }
+          },
+          {
+            "id": "43464510",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 12,
+              "end": 14,
+              "text": "tg",
+              "labels": [
+                "Colère",
+                "Montrée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "avec d'autres qui n'aiment pas les arabes comme toi",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "f3febe1e",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 18,
+              "end": 41,
+              "text": "n'aiment pas les arabes",
+              "labels": [
+                "Autre",
+                "Désignée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "tu nike ta mere plutot et encore",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "2583480a",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 22,
+              "text": "tu nike ta mere plutot",
+              "labels": [
+                "Colère",
+                "Montrée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "il est tlmt ptit qu on verra rien tkt terasa",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "si quelqu un te veux",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "bon euh vs avez fini de parler pour rien ?",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "b0ab4659",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 8,
+              "end": 42,
+              "text": "vs avez fini de parler pour rien ?",
+              "labels": [
+                "Colère",
+                "Montrée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "ooooh theresa tu me chauffes tu veux le meme sort?",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "f20da186",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 5,
+              "text": "ooooh",
+              "labels": [
+                "Colère",
+                "Montrée"
+              ]
+            }
+          },
+          {
+            "id": "66807f8d",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 14,
+              "end": 28,
+              "text": "tu me chauffes",
+              "labels": [
+                "Colère",
+                "Désignée"
+              ]
+            }
+          },
+          {
+            "id": "92f7f989",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 29,
+              "end": 50,
+              "text": "tu veux le meme sort?",
+              "labels": [
+                "Colère",
+                "Montrée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "ta 12 ans tu fait la grande ta pote et a pooile sur la plage et se plaint apres",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "theo arrete de defendre vrm on dirait que t'es pas francais",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "appelez carla elle va faire la sorcellerie jai des contacts",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "mai a poil de koi",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "mais oui il fait le beau parceque t'es une gadjis mais devant un mec il ferra rien",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "0fca84a8",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 9,
+              "end": 24,
+              "text": "il fait le beau",
+              "labels": [
+                "Colère",
+                "Comportementale"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "tg toi",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "9423b743",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 6,
+              "text": "tg toi",
+              "labels": [
+                "Colère",
+                "Montrée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "la pauline on voyait son cul et elle vient m harceler apres la",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "f2357eb9",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 11,
+              "end": 28,
+              "text": "on voyait son cul",
+              "labels": [
+                "Colère",
+                "Montrée"
+              ]
+            }
+          },
+          {
+            "id": "6c5ca1a6",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 32,
+              "end": 62,
+              "text": "elle vient m harceler apres la",
+              "labels": [
+                "Colère",
+                "Suggérée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "apel plutot anaé",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "j'en ai un moi au moins",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "en attendant elle elle avait le droit",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "ily aura que elle qui va te repondre mdr",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "oe ta raison c la plus grosse des pute",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "d605e0ac",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 15,
+              "end": 38,
+              "text": "la plus grosse des pute",
+              "labels": [
+                "Colère",
+                "Montrée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "parce qu'elle elle est dans son pays",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "hein pauline",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "teresa ftg va a l'eglise",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "2b65271f",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 7,
+              "end": 10,
+              "text": "ftg",
+              "labels": [
+                "Colère",
+                "Montrée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "ba va y on y va ensemble",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "ça t'éduqueras un peu",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "tu devrais faire pareil",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "j sui sur t es jamais allé a leglise hypocrite",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "47029ad8",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 37,
+              "end": 46,
+              "text": "hypocrite",
+              "labels": [
+                "Colère",
+                "Montrée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "on te brule toi a leglise",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "c7cd400e",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 25,
+              "text": "on te brule toi a leglise",
+              "labels": [
+                "Colère",
+                "Montrée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "mais vs en avez pas marre, vs voulez pas vs re parler et mettre les choses a plat ?",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "6c6c34be",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 5,
+              "end": 25,
+              "text": "vs en avez pas marre",
+              "labels": [
+                "Colère",
+                "Désignée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "oe grave tu parles",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "theo tu sers a rien",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "5285303e",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 5,
+              "end": 19,
+              "text": "tu sers a rien",
+              "labels": [
+                "Colère",
+                "Montrée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "fatima arrete la mascarade on sait que toi t'es un autre delire toi tu fais la manche devant frr",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "9ffe0afc",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 17,
+              "end": 26,
+              "text": "mascarade",
+              "labels": [
+                "Colère",
+                "Montrée"
+              ]
+            }
+          },
+          {
+            "id": "112f4f90",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 68,
+              "end": 96,
+              "text": "tu fais la manche devant frr",
+              "labels": [
+                "Dégoût",
+                "Suggérée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "j prefere faire la manche que la pute comme ta mere",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "1ab9acf4",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 30,
+              "end": 51,
+              "text": "la pute comme ta mere",
+              "labels": [
+                "Colère",
+                "Montrée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "c a eux d'arreter d'harceler les gens",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "245edf23",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 18,
+              "end": 37,
+              "text": "d'harceler les gens",
+              "labels": [
+                "Colère",
+                "Suggérée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "si je sert a regler vos problemes de merde",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "55030291",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 24,
+              "end": 42,
+              "text": "problemes de merde",
+              "labels": [
+                "Colère",
+                "Montrée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "la prochaine fois tu mettra un voile comme t es parents au lieu de nous faire cvhier",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "47bf35a7",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 84,
+              "text": "la prochaine fois tu mettra un voile comme t es parents au lieu de nous faire cvhier",
+              "labels": [
+                "Colère",
+                "Montrée"
+              ]
+            }
+          },
+          {
+            "id": "4a9cd943",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 67,
+              "end": 84,
+              "text": "nous faire cvhier",
+              "labels": [
+                "Colère",
+                "Désignée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "fatima arrete de faire la folle tu vas vrm le payer",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "e2f14c2e",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 32,
+              "end": 51,
+              "text": "tu vas vrm le payer",
+              "labels": [
+                "Colère",
+                "Comportementale"
+              ]
+            }
+          },
+          {
+            "id": "85fc396a",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 7,
+              "end": 31,
+              "text": "arrete de faire la folle",
+              "labels": [
+                "Colère",
+                "Comportementale"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "sa sort des cour sa mes le voile mais a la plage sa montre son cu ptdrrrrrr",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "c9627917",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 66,
+              "end": 75,
+              "text": "ptdrrrrrr",
+              "labels": [
+                "Joie",
+                "Montrée"
+              ]
+            }
+          },
+          {
+            "id": "abb31c0e",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 65,
+              "text": "sa sort des cour sa mes le voile mais a la plage sa montre son cu",
+              "labels": [
+                "Dégoût",
+                "Suggérée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "mddddddr",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "4ee51bc2",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 8,
+              "text": "mddddddr",
+              "labels": [
+                "Joie",
+                "Montrée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "on va faire des montages tu as te retrouver à poil sur internet ptddrrrr",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "fee97bf6",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 64,
+              "end": 72,
+              "text": "ptddrrrr",
+              "labels": [
+                "Joie",
+                "Montrée"
+              ]
+            }
+          },
+          {
+            "id": "b380a35e",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 63,
+              "text": "on va faire des montages tu as te retrouver à poil sur internet",
+              "labels": [
+                "Autre",
+                "Montrée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "nicolas tu vas trop loin la",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "e0cba06d",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 8,
+              "end": 27,
+              "text": "tu vas trop loin la",
+              "labels": [
+                "Colère",
+                "Suggérée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "tkt tu vas retrouver en prison",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "theo ftg",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "d1d7d9e3",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 5,
+              "end": 8,
+              "text": "ftg",
+              "labels": [
+                "Colère",
+                "Montrée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "faites de toute facon on n'a toute les preuves",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "rooohh theo c'est toi la",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "ee646314",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 6,
+              "text": "rooohh",
+              "labels": [
+                "Colère",
+                "Montrée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "elle va porter plainte",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "11b6a1d8",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 22,
+              "text": "elle va porter plainte",
+              "labels": [
+                "Colère",
+                "Comportementale"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "quelle preuves ?",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "tampis pour vous",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "tg theo la veriter blaisse tu te sens mal",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "867e3f95",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 2,
+              "text": "tg",
+              "labels": [
+                "Colère",
+                "Montrée"
+              ]
+            }
+          },
+          {
+            "id": "219977d2",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 8,
+              "end": 41,
+              "text": "la veriter blaisse tu te sens mal",
+              "labels": [
+                "Colère",
+                "Suggérée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "tg toi",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "2c86882a",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 6,
+              "text": "tg toi",
+              "labels": [
+                "Colère",
+                "Montrée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "on a les screen",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "teresa les preuves disparaissent comme fatima va disparaitre",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "878a0e83",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 39,
+              "end": 60,
+              "text": "fatima va disparaitre",
+              "labels": [
+                "Autre",
+                "Suggérée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "t'es entrain de parler cave",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "314001d4",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 23,
+              "end": 27,
+              "text": "cave",
+              "labels": [
+                "Colère",
+                "Montrée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "nous aussi les screen quan tu montre ton cu",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "depuis talleur tu l'insulte tu parle de montage",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "12260662",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 15,
+              "end": 27,
+              "text": "tu l'insulte",
+              "labels": [
+                "Colère",
+                "Comportementale"
+              ]
+            }
+          },
+          {
+            "id": "524b19f5",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 28,
+              "end": 47,
+              "text": "tu parle de montage",
+              "labels": [
+                "Colère",
+                "Comportementale"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "mes les toi ou je pense tes screen",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "50e9934e",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 23,
+              "text": "mes les toi ou je pense",
+              "labels": [
+                "Colère",
+                "Montrée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "et alors? je peux tjrs nier",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "oui tktt chez la police",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": " rien prouve que c'est moi ;D",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "tu crois ils vont te croire",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "continuer de faire les malins",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "y a ton nom",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "si si",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "va chez la police on tenmene meme si tu veux",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "teresa je vais pas le répeter tu n'y iras pas chez la police",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "d46d0ca5",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 7,
+              "end": 29,
+              "text": "je vais pas le répeter",
+              "labels": [
+                "Colère",
+                "Montrée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "on t'accompagne porter plainte stuveu",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "pas de soucis viens",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "pour 3 messages qui represente la veriter",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "sa sera plus rapide",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "a notre age une amande *et cest regles",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "alors nn",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "mais cest ridicule",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "donc chute merci",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "7a336ee9",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 16,
+              "text": "donc chute merci",
+              "labels": [
+                "Colère",
+                "Montrée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "sa a bcp evolué depuis",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "ah et tu croit quoi",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "67e789ba",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 6,
+              "end": 19,
+              "text": "tu croit quoi",
+              "labels": [
+                "Colère",
+                "Montrée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "on va s'en sortir triomphant on va expulser tous les arabes comme toi",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "ea0fca6c",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 35,
+              "end": 69,
+              "text": "expulser tous les arabes comme toi",
+              "labels": [
+                "Dégoût",
+                "Suggérée"
+              ]
+            }
+          },
+          {
+            "id": "c7d983c7",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 35,
+              "end": 69,
+              "text": "expulser tous les arabes comme toi",
+              "labels": [
+                "Autre",
+                "Suggérée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "regler vos problemes comme des adultes au lieu de parler pour rien la",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "a406fb8f",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 50,
+              "end": 69,
+              "text": "parler pour rien la",
+              "labels": [
+                "Colère",
+                "Montrée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "c la prison pour 4 message",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "bon fatima retournes chez tamr pleurer",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "4af94372",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 31,
+              "end": 38,
+              "text": "pleurer",
+              "labels": [
+                "Tristesse",
+                "Désignée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "theo ftg vrm tu sers à r",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "8312560b",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 5,
+              "end": 8,
+              "text": "ftg",
+              "labels": [
+                "Colère",
+                "Montrée"
+              ]
+            }
+          },
+          {
+            "id": "fc2be437",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 13,
+              "end": 24,
+              "text": "tu sers à r",
+              "labels": [
+                "Colère",
+                "Montrée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "t tellement peu cultiver que t meme pas au courant des consequences de sque tu fais",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "quand t es meme pas majeurs*",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "avec ton accent la",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "la vie t'es explosé la tu peux gérer degun",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "a1c44d76",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 7,
+              "end": 19,
+              "text": "t'es explosé",
+              "labels": [
+                "Colère",
+                "Montrée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "jvais me suicider tu vas voir si vous allez rien avoir",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "767605f8",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 17,
+              "text": "jvais me suicider",
+              "labels": [
+                "Tristesse",
+                "Comportementale"
+              ]
+            }
+          },
+          {
+            "id": "874df539",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 18,
+              "end": 54,
+              "text": "tu vas voir si vous allez rien avoir",
+              "labels": [
+                "Colère",
+                "Montrée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "enfin",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "ecrit francais et tu viendra me parler culture' mdrr",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "49007cc9",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 47,
+              "text": "ecrit francais et tu viendra me parler culture'",
+              "labels": [
+                "Colère",
+                "Comportementale"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "teresa tu parles de culture mais chez toi y'a même pas accès à l'eau alors à l'ecole........ et ça se fait ressentir",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "voila sucide toi donc teresa ta bien ouvert ta guele pour rien",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "a6ce711b",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 29,
+              "end": 62,
+              "text": "ta bien ouvert ta guele pour rien",
+              "labels": [
+                "Colère",
+                "Montrée"
+              ]
+            }
+          },
+          {
+            "id": "54f508ff",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 6,
+              "end": 28,
+              "text": "sucide toi donc teresa",
+              "labels": [
+                "Colère",
+                "Comportementale"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "crève",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "7f2d718c",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 5,
+              "text": "crève",
+              "labels": [
+                "Colère",
+                "Montrée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "vous irez en efer enfer*",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "c1611723",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 24,
+              "text": "vous irez en efer enfer*",
+              "labels": [
+                "Colère",
+                "Montrée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "les blancs vont pas en enfer",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "vs etes serieux ? vs aimerais quon vs dises sa ?",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "d44d9fc3",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 18,
+              "end": 48,
+              "text": "vs aimerais quon vs dises sa ?",
+              "labels": [
+                "Colère",
+                "Montrée"
+              ]
+            }
+          },
+          {
+            "id": "5e5d278e",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 17,
+              "text": "vs etes serieux ?",
+              "labels": [
+                "Colère",
+                "Montrée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "on est purs nous",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "oe pure merde",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "cf45c3cd",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 3,
+              "end": 13,
+              "text": "pure merde",
+              "labels": [
+                "Colère",
+                "Montrée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "de la même couleur ça vous fait un point commun",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "wouah le niveauxxxxxxx",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "y'a l'odeur aussi",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "avec vos habits du bled la cassez vous",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "1e6f50fe",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 24,
+              "end": 38,
+              "text": "la cassez vous",
+              "labels": [
+                "Colère",
+                "Comportementale"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "mdrr c clair l odeur infecte",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "7912a943",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 15,
+              "end": 28,
+              "text": "odeur infecte",
+              "labels": [
+                "Dégoût",
+                "Montrée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "oo tg pierre me fais pas chier jmen blc de ta vie franchement",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "912bc7ca",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 3,
+              "end": 12,
+              "text": "tg pierre",
+              "labels": [
+                "Colère",
+                "Montrée"
+              ]
+            }
+          },
+          {
+            "id": "1d764ca6",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 13,
+              "end": 30,
+              "text": "me fais pas chier",
+              "labels": [
+                "Colère",
+                "Montrée"
+              ]
+            }
+          },
+          {
+            "id": "116ac7b0",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 31,
+              "end": 49,
+              "text": "jmen blc de ta vie",
+              "labels": [
+                "Colère",
+                "Montrée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "teresa parle bien ftg",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "dfb2dfce",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 18,
+              "end": 21,
+              "text": "ftg",
+              "labels": [
+                "Colère",
+                "Montrée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "teresa fais comme fatima ferme la",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "ffdaa7e6",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 25,
+              "end": 33,
+              "text": "ferme la",
+              "labels": [
+                "Colère",
+                "Montrée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "alors pk tu lui envoy un message si tu ten fou bien dit",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "c3e3efa7",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 6,
+              "end": 55,
+              "text": "pk tu lui envoy un message si tu ten fou bien dit",
+              "labels": [
+                "Colère",
+                "Montrée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "pauline et pierre 2 grosses merdes qui parlent",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "df7b4e2c",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 18,
+              "end": 34,
+              "text": "2 grosses merdes",
+              "labels": [
+                "Colère",
+                "Montrée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "bon la phto va etres poster",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "grv teresa t autant inutile que Mbendib",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "23096295",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 39,
+              "text": "grv teresa t autant inutile que Mbendib",
+              "labels": [
+                "Autre",
+                "Montrée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "quand",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "quand tu fermeras ta gueule",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "d2c87898",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 9,
+              "end": 27,
+              "text": "fermeras ta gueule",
+              "labels": [
+                "Colère",
+                "Montrée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "poste la",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "plus une troisieme teresa",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "oyé tous repostez en story les photos de la negre",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "06d4f595",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 4,
+              "end": 49,
+              "text": "tous repostez en story les photos de la negre",
+              "labels": [
+                "Colère",
+                "Comportementale"
+              ]
+            }
+          },
+          {
+            "id": "d95b1ebc",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 41,
+              "end": 49,
+              "text": "la negre",
+              "labels": [
+                "Dégoût",
+                "Montrée"
+              ]
+            }
+          },
+          {
+            "id": "cc0402ca",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 41,
+              "end": 49,
+              "text": "la negre",
+              "labels": [
+                "Autre",
+                "Montrée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "+famtima 4",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "et tu venira en prison",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "528324b3",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 3,
+              "end": 22,
+              "text": "tu venira en prison",
+              "labels": [
+                "Colère",
+                "Suggérée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "on va bien se marrer",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "58724d89",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 20,
+              "text": "on va bien se marrer",
+              "labels": [
+                "Joie",
+                "Désignée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "tu vas rien comprendre",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "parle pas de prison quand tu coco pas mdrrr",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "demain on imprime on affiche?",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "fatima t une grosse pute a part envoyez des nudes tu f rien",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "205311a9",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 13,
+              "end": 24,
+              "text": "grosse pute",
+              "labels": [
+                "Dégoût",
+                "Montrée"
+              ]
+            }
+          },
+          {
+            "id": "e86264ad",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 25,
+              "end": 59,
+              "text": "a part envoyez des nudes tu f rien",
+              "labels": [
+                "Mépris",
+                "Montrée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "si on a compris tkt",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "mais mdrr pauline elle a tourné dans toute la france",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "mdrrr",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "4f42a1f8",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 5,
+              "text": "mdrrr",
+              "labels": [
+                "Joie",
+                "Montrée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "normal j'suis une star",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "b09182dd",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 22,
+              "text": "normal j'suis une star",
+              "labels": [
+                "Fierté",
+                "Suggérée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "sa chatte aussi",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "bon cest bon vs tourner en rond la depuis taleur",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "b9f15c50",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 12,
+              "text": "bon cest bon",
+              "labels": [
+                "Colère",
+                "Montrée"
+              ]
+            }
+          },
+          {
+            "id": "ba64488f",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 13,
+              "end": 48,
+              "text": "vs tourner en rond la depuis taleur",
+              "labels": [
+                "Colère",
+                "Suggérée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "pour avoir les papiers",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "et elle ose ouvrir sa bouche de suceuse",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "d97c2dfb",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 8,
+              "end": 28,
+              "text": "ose ouvrir sa bouche",
+              "labels": [
+                "Colère",
+                "Comportementale"
+              ]
+            }
+          },
+          {
+            "id": "b64ff9c0",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 32,
+              "end": 39,
+              "text": "suceuse",
+              "labels": [
+                "Colère",
+                "Montrée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "sa mère aussi",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "t trop jalouse qu aucun mec te trouves belle",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "d29c0e7a",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 7,
+              "end": 14,
+              "text": "jalouse",
+              "labels": [
+                "Jalousie",
+                "Désignée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "a part insulter vs faites rien d'autres",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "c9360784",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 39,
+              "text": "a part insulter vs faites rien d'autres",
+              "labels": [
+                "Colère",
+                "Comportementale"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "c, mdrr elle t belle $*",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "3a1c462b",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 3,
+              "end": 7,
+              "text": "mdrr",
+              "labels": [
+                "Joie",
+                "Montrée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "oe grave il l'utilise c tout",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "toi eclater apr contre",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "tu sais parler nicolas ? mdr",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "9264dd8c",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 24,
+              "text": "tu sais parler nicolas ?",
+              "labels": [
+                "Colère",
+                "Montrée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "nan pas le time bb",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "apres cest moi qu est pas française",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "comme une prostitué qu'elle fait bien mdrr",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "6115823f",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 38,
+              "end": 42,
+              "text": "mdrr",
+              "labels": [
+                "Joie",
+                "Montrée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "pour toi c sa et pas plus",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "vos geule",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "50e6f904",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 9,
+              "text": "vos geule",
+              "labels": [
+                "Colère",
+                "Montrée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "vas apprendre la langue de ton pays déjà",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "0c8c99a0",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 40,
+              "text": "vas apprendre la langue de ton pays déjà",
+              "labels": [
+                "Colère",
+                "Montrée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "ptdr maiis fatima t'as vu ton orthographe",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "8c0b0530",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 18,
+              "end": 41,
+              "text": "t'as vu ton orthographe",
+              "labels": [
+                "Colère",
+                "Comportementale"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "t dans notre pays et tu parle",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "f62ee736",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 29,
+              "text": "t dans notre pays et tu parle",
+              "labels": [
+                "Colère",
+                "Montrée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "parle pas",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "21d09195",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 9,
+              "text": "parle pas",
+              "labels": [
+                "Colère",
+                "Comportementale"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "elle insulte sa pote mtn",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "vous etes des gros gamins",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "05f4ace7",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 25,
+              "text": "vous etes des gros gamins",
+              "labels": [
+                "Colère",
+                "Montrée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "non patriotes",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "moi c mon pays o moinh",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "et tout le monde devrait etre comme ça",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "donc je me premer cque je veux par apport atoi",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "ooo nicolas tg",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "b895bd7f",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 12,
+              "end": 14,
+              "text": "tg",
+              "labels": [
+                "Colère",
+                "Montrée"
+              ]
+            }
+          },
+          {
+            "id": "f69c6b40",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 3,
+              "text": "ooo",
+              "labels": [
+                "Colère",
+                "Montrée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "bisoussssssssssssssssssssssssssss",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "bon fatima on va te ntm tkt",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "594d24b0",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 20,
+              "end": 23,
+              "text": "ntm",
+              "labels": [
+                "Colère",
+                "Montrée"
+              ]
+            }
+          },
+          {
+            "id": "4f83a19f",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 11,
+              "end": 23,
+              "text": "on va te ntm",
+              "labels": [
+                "Colère",
+                "Comportementale"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "ca veut rien dire ta phrase",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "tu peux pas savoir fat fat",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "ebe5ec66",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 19,
+              "end": 26,
+              "text": "fat fat",
+              "labels": [
+                "Dégoût",
+                "Montrée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "bref bisous de nous les jaloux",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "21479c39",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 24,
+              "end": 30,
+              "text": "jaloux",
+              "labels": [
+                "Jalousie",
+                "Désignée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "meme ton soutien se casse t'es seule",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "c5d6af69",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 26,
+              "end": 36,
+              "text": "t'es seule",
+              "labels": [
+                "Colère",
+                "Montrée"
+              ]
+            }
+          },
+          {
+            "id": "fb00668a",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 36,
+              "text": "meme ton soutien se casse t'es seule",
+              "labels": [
+                "Tristesse",
+                "Suggérée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "javoue tu sais pas tu parle meme pas francais",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "bon vs voulez pas vs reconcilier jy peut rien",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "c072faa1",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 33,
+              "end": 45,
+              "text": "jy peut rien",
+              "labels": [
+                "Tristesse",
+                "Suggérée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "et nous on te démarre",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "ciao ciao",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "mdrrrrr theo qui abandonne",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "bb5b615e",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 7,
+              "text": "mdrrrrr",
+              "labels": [
+                "Joie",
+                "Montrée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "vas y ciao les ploucs",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "3e764b5a",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 10,
+              "text": "vas y ciao",
+              "labels": [
+                "Colère",
+                "Comportementale"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": " tkt t'auras son cul quand meme vu comment elle l'expose \"les ploucs\" mdrrrrrrrrrrrrrrrr",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "retournez dans votre ferme traire vos meres",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "a462a92a",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 43,
+              "text": "retournez dans votre ferme traire vos meres",
+              "labels": [
+                "Colère",
+                "Montrée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "si l'unitilité etait une personne",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "f73dbcd0",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 33,
+              "text": "si l'unitilité etait une personne",
+              "labels": [
+                "Mépris",
+                "Montrée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "moi et fatima on n'a pas votre time dsl",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "t'as cru t'as dead ça?",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "d17c3314",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 22,
+              "text": "t'as cru t'as dead ça?",
+              "labels": [
+                "Colère",
+                "Montrée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "oe exactement",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "ptdrrrr punshline éclatées cousine oula non pas cousine esclave",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "64b1349d",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 7,
+              "text": "ptdrrrr",
+              "labels": [
+                "Joie",
+                "Montrée"
+              ]
+            }
+          },
+          {
+            "id": "10f2f99d",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 56,
+              "end": 63,
+              "text": "esclave",
+              "labels": [
+                "Dégoût",
+                "Montrée"
+              ]
+            }
+          },
+          {
+            "id": "4dad8c40",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 56,
+              "end": 63,
+              "text": "esclave",
+              "labels": [
+                "Autre",
+                "Montrée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "<3",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "a4f671c7",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 2,
+              "text": "<3",
+              "labels": [
+                "Autre",
+                "Montrée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "comme au bon vieux temps",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "d85664ce",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 24,
+              "text": "comme au bon vieux temps",
+              "labels": [
+                "Joie",
+                "Suggérée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "elle c cru sur skyrock la :b",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": []
+  },
+  {
+    "data": {
+      "text": "tete qu'elle a parle ps avk moi grosse pute",
+      "source": "racisme_annotations_gold_flat.xlsx"
+    },
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "599518be",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 32,
+              "end": 43,
+              "text": "grosse pute",
+              "labels": [
+                "Colère",
+                "Montrée"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
