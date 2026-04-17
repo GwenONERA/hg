@@ -9,7 +9,7 @@
         "model_version": "gold_annotations",
         "result": [
           {
-            "id": "7d583738",
+            "id": "cf54247e",
             "from_name": "label",
             "to_name": "text",
             "type": "labels",
@@ -19,12 +19,12 @@
               "text": "dégeulasse",
               "labels": [
                 "Dégoût",
-                "Montrée"
+                "Montree"
               ]
             }
           },
           {
-            "id": "b154f779",
+            "id": "316900b6",
             "from_name": "label",
             "to_name": "text",
             "type": "labels",
@@ -34,7 +34,8 @@
               "text": "bande de salopes",
               "labels": [
                 "Colère",
-                "Montrée"
+                "Dégoût",
+                "Montree"
               ]
             }
           }
@@ -59,7 +60,7 @@
         "model_version": "gold_annotations",
         "result": [
           {
-            "id": "9d80e8c5",
+            "id": "dd484afb",
             "from_name": "label",
             "to_name": "text",
             "type": "labels",
@@ -69,12 +70,12 @@
               "text": "sa dégouteeee",
               "labels": [
                 "Dégoût",
-                "Désignée"
+                "Designee"
               ]
             }
           },
           {
-            "id": "f1696a79",
+            "id": "87fa4e35",
             "from_name": "label",
             "to_name": "text",
             "type": "labels",
@@ -84,7 +85,7 @@
               "text": "sa dégouteeee",
               "labels": [
                 "Dégoût",
-                "Montrée"
+                "Montree"
               ]
             }
           }
@@ -102,7 +103,7 @@
         "model_version": "gold_annotations",
         "result": [
           {
-            "id": "00f9c527",
+            "id": "a47be92a",
             "from_name": "label",
             "to_name": "text",
             "type": "labels",
@@ -117,7 +118,7 @@
             }
           },
           {
-            "id": "57786523",
+            "id": "bff7b8ec",
             "from_name": "label",
             "to_name": "text",
             "type": "labels",
@@ -145,7 +146,7 @@
         "model_version": "gold_annotations",
         "result": [
           {
-            "id": "5f479397",
+            "id": "ca51a870",
             "from_name": "label",
             "to_name": "text",
             "type": "labels",
@@ -155,12 +156,12 @@
               "text": "bande de lesbiennes",
               "labels": [
                 "Dégoût",
-                "Montrée"
+                "Montree"
               ]
             }
           },
           {
-            "id": "9663dd0d",
+            "id": "5d893289",
             "from_name": "label",
             "to_name": "text",
             "type": "labels",
@@ -170,12 +171,12 @@
               "text": "vous degoutée",
               "labels": [
                 "Dégoût",
-                "Désignée"
+                "Designee"
               ]
             }
           },
           {
-            "id": "0baf7886",
+            "id": "f25cdddf",
             "from_name": "label",
             "to_name": "text",
             "type": "labels",
@@ -185,7 +186,7 @@
               "text": "aaaaah",
               "labels": [
                 "Dégoût",
-                "Montrée"
+                "Montree"
               ]
             }
           }
@@ -203,7 +204,7 @@
         "model_version": "gold_annotations",
         "result": [
           {
-            "id": "ec5937ef",
+            "id": "f2ac949a",
             "from_name": "label",
             "to_name": "text",
             "type": "labels",
@@ -213,12 +214,12 @@
               "text": "olalala",
               "labels": [
                 "Dégoût",
-                "Montrée"
+                "Montree"
               ]
             }
           },
           {
-            "id": "dbfcccf5",
+            "id": "186d1bc5",
             "from_name": "label",
             "to_name": "text",
             "type": "labels",
@@ -228,7 +229,7 @@
               "text": "tu dégoute",
               "labels": [
                 "Dégoût",
-                "Désignée"
+                "Designee"
               ]
             }
           }
@@ -253,7 +254,7 @@
         "model_version": "gold_annotations",
         "result": [
           {
-            "id": "1d0188f3",
+            "id": "1d92a55a",
             "from_name": "label",
             "to_name": "text",
             "type": "labels",
@@ -263,12 +264,12 @@
               "text": "vous degouter",
               "labels": [
                 "Dégoût",
-                "Désignée"
+                "Designee"
               ]
             }
           },
           {
-            "id": "b5ada814",
+            "id": "7f511221",
             "from_name": "label",
             "to_name": "text",
             "type": "labels",
@@ -278,7 +279,8 @@
               "text": "bande de crasseuse",
               "labels": [
                 "Dégoût",
-                "Montrée"
+                "Colère",
+                "Montree"
               ]
             }
           }
@@ -310,7 +312,7 @@
         "model_version": "gold_annotations",
         "result": [
           {
-            "id": "74a5fd61",
+            "id": "e5fffcfd",
             "from_name": "label",
             "to_name": "text",
             "type": "labels",
@@ -320,7 +322,8 @@
               "text": "grosse crasseuse",
               "labels": [
                 "Dégoût",
-                "Montrée"
+                "Colère",
+                "Montree"
               ]
             }
           }
@@ -338,7 +341,7 @@
         "model_version": "gold_annotations",
         "result": [
           {
-            "id": "87117c4f",
+            "id": "620929e2",
             "from_name": "label",
             "to_name": "text",
             "type": "labels",
@@ -348,7 +351,7 @@
               "text": "vous me degoutez",
               "labels": [
                 "Dégoût",
-                "Désignée"
+                "Designee"
               ]
             }
           }
@@ -366,7 +369,7 @@
         "model_version": "gold_annotations",
         "result": [
           {
-            "id": "024ded12",
+            "id": "3c7a4c2d",
             "from_name": "label",
             "to_name": "text",
             "type": "labels",
@@ -376,12 +379,12 @@
               "text": "putain",
               "labels": [
                 "Colère",
-                "Montrée"
+                "Montree"
               ]
             }
           },
           {
-            "id": "90322522",
+            "id": "403d9db7",
             "from_name": "label",
             "to_name": "text",
             "type": "labels",
@@ -409,7 +412,7 @@
         "model_version": "gold_annotations",
         "result": [
           {
-            "id": "daf17a6d",
+            "id": "f9c42fa5",
             "from_name": "label",
             "to_name": "text",
             "type": "labels",
@@ -419,7 +422,8 @@
               "text": "grosse pute",
               "labels": [
                 "Colère",
-                "Montrée"
+                "Dégoût",
+                "Montree"
               ]
             }
           }
@@ -437,7 +441,7 @@
         "model_version": "gold_annotations",
         "result": [
           {
-            "id": "5d0a7c15",
+            "id": "2502d43f",
             "from_name": "label",
             "to_name": "text",
             "type": "labels",
@@ -447,7 +451,7 @@
               "text": "sal photo",
               "labels": [
                 "Dégoût",
-                "Montrée"
+                "Montree"
               ]
             }
           }
@@ -465,7 +469,7 @@
         "model_version": "gold_annotations",
         "result": [
           {
-            "id": "ece6dc85",
+            "id": "ee247e0d",
             "from_name": "label",
             "to_name": "text",
             "type": "labels",
@@ -475,7 +479,7 @@
               "text": "connasses",
               "labels": [
                 "Colère",
-                "Montrée"
+                "Montree"
               ]
             }
           }
@@ -535,7 +539,7 @@
         "model_version": "gold_annotations",
         "result": [
           {
-            "id": "68d400f6",
+            "id": "e3d88b59",
             "from_name": "label",
             "to_name": "text",
             "type": "labels",
@@ -545,12 +549,12 @@
               "text": "y a quoi ?",
               "labels": [
                 "Colère",
-                "Montrée"
+                "Montree"
               ]
             }
           },
           {
-            "id": "7d16702b",
+            "id": "e048714c",
             "from_name": "label",
             "to_name": "text",
             "type": "labels",
@@ -565,7 +569,7 @@
             }
           },
           {
-            "id": "7703e8a8",
+            "id": "6c1b8afd",
             "from_name": "label",
             "to_name": "text",
             "type": "labels",
@@ -630,21 +634,99 @@
       "text": "burk sa me degoute",
       "source": "homophobie_annotations_gold_flat.xlsx"
     },
-    "predictions": []
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "d2555b0b",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 4,
+              "text": "burk",
+              "labels": [
+                "Dégoût",
+                "Montree"
+              ]
+            }
+          },
+          {
+            "id": "8748553e",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 5,
+              "end": 18,
+              "text": "sa me degoute",
+              "labels": [
+                "Dégoût",
+                "Designee"
+              ]
+            }
+          }
+        ]
+      }
+    ]
   },
   {
     "data": {
       "text": "mellez-vous de votre cul",
       "source": "homophobie_annotations_gold_flat.xlsx"
     },
-    "predictions": []
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "f33fdbf5",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 24,
+              "text": "mellez-vous de votre cul",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
   },
   {
     "data": {
       "text": "assume que t'aime les filles c tout connasse",
       "source": "homophobie_annotations_gold_flat.xlsx"
     },
-    "predictions": []
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "7d439101",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 36,
+              "end": 44,
+              "text": "connasse",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
   },
   {
     "data": {
@@ -663,7 +745,7 @@
         "model_version": "gold_annotations",
         "result": [
           {
-            "id": "6737eace",
+            "id": "eb8aeb6a",
             "from_name": "label",
             "to_name": "text",
             "type": "labels",
@@ -673,7 +755,8 @@
               "text": "cul de crasseuse",
               "labels": [
                 "Dégoût",
-                "Montrée"
+                "Colère",
+                "Montree"
               ]
             }
           }
@@ -693,14 +776,71 @@
       "text": "tg saloppe",
       "source": "homophobie_annotations_gold_flat.xlsx"
     },
-    "predictions": []
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "c4952967",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 2,
+              "text": "tg",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          },
+          {
+            "id": "43cc4291",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 3,
+              "end": 10,
+              "text": "saloppe",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
   },
   {
     "data": {
       "text": "marie tg",
       "source": "homophobie_annotations_gold_flat.xlsx"
     },
-    "predictions": []
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "dbe139eb",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 6,
+              "end": 8,
+              "text": "tg",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
   },
   {
     "data": {
@@ -719,7 +859,7 @@
         "model_version": "gold_annotations",
         "result": [
           {
-            "id": "face67c4",
+            "id": "a470b257",
             "from_name": "label",
             "to_name": "text",
             "type": "labels",
@@ -729,7 +869,8 @@
               "text": "saloperie",
               "labels": [
                 "Dégoût",
-                "Montrée"
+                "Colère",
+                "Montree"
               ]
             }
           }
@@ -761,7 +902,7 @@
         "model_version": "gold_annotations",
         "result": [
           {
-            "id": "3ad42ff5",
+            "id": "382c3927",
             "from_name": "label",
             "to_name": "text",
             "type": "labels",
@@ -771,7 +912,8 @@
               "text": "grosse crasseuse",
               "labels": [
                 "Dégoût",
-                "Montrée"
+                "Colère",
+                "Montree"
               ]
             }
           }
@@ -803,7 +945,7 @@
         "model_version": "gold_annotations",
         "result": [
           {
-            "id": "a2d828ba",
+            "id": "916abfaf",
             "from_name": "label",
             "to_name": "text",
             "type": "labels",
@@ -813,6 +955,7 @@
               "text": "on veut pas de sa ici",
               "labels": [
                 "Colère",
+                "Dégoût",
                 "Comportementale"
               ]
             }
@@ -831,7 +974,7 @@
         "model_version": "gold_annotations",
         "result": [
           {
-            "id": "ba9d813d",
+            "id": "69941e15",
             "from_name": "label",
             "to_name": "text",
             "type": "labels",
@@ -841,7 +984,8 @@
               "text": "crasseuse",
               "labels": [
                 "Dégoût",
-                "Montrée"
+                "Colère",
+                "Montree"
               ]
             }
           }
@@ -861,7 +1005,28 @@
       "text": "me degoute",
       "source": "homophobie_annotations_gold_flat.xlsx"
     },
-    "predictions": []
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "dac85f16",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 10,
+              "text": "me degoute",
+              "labels": [
+                "Dégoût",
+                "Designee"
+              ]
+            }
+          }
+        ]
+      }
+    ]
   },
   {
     "data": {
@@ -873,7 +1038,7 @@
         "model_version": "gold_annotations",
         "result": [
           {
-            "id": "dde16aca",
+            "id": "e7c68c6e",
             "from_name": "label",
             "to_name": "text",
             "type": "labels",
@@ -883,12 +1048,12 @@
               "text": "burk",
               "labels": [
                 "Dégoût",
-                "Montrée"
+                "Montree"
               ]
             }
           },
           {
-            "id": "8bed0d76",
+            "id": "b5a5e23c",
             "from_name": "label",
             "to_name": "text",
             "type": "labels",
@@ -898,7 +1063,8 @@
               "text": "bande de chienne",
               "labels": [
                 "Colère",
-                "Montrée"
+                "Dégoût",
+                "Montree"
               ]
             }
           }
@@ -923,7 +1089,7 @@
         "model_version": "gold_annotations",
         "result": [
           {
-            "id": "6e4719bd",
+            "id": "f39922a8",
             "from_name": "label",
             "to_name": "text",
             "type": "labels",
@@ -933,7 +1099,8 @@
               "text": "ça se voit vous êtes pas des potes si ça vous est jamais de réconforter votre pote",
               "labels": [
                 "Colère",
-                "Suggérée"
+                "Tristesse",
+                "Suggeree"
               ]
             }
           }
@@ -953,7 +1120,28 @@
       "text": "mais ftg",
       "source": "homophobie_annotations_gold_flat.xlsx"
     },
-    "predictions": []
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "0fbd608e",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 5,
+              "end": 8,
+              "text": "ftg",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
   },
   {
     "data": {
@@ -965,7 +1153,7 @@
         "model_version": "gold_annotations",
         "result": [
           {
-            "id": "e155a517",
+            "id": "3d1bd469",
             "from_name": "label",
             "to_name": "text",
             "type": "labels",
@@ -1016,7 +1204,28 @@
       "text": "c'est quoi le rapport entre être gouine et être une pute ?",
       "source": "homophobie_annotations_gold_flat.xlsx"
     },
-    "predictions": []
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "42a27bc2",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 58,
+              "text": "c'est quoi le rapport entre être gouine et être une pute ?",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
   },
   {
     "data": {
@@ -1035,7 +1244,7 @@
         "model_version": "gold_annotations",
         "result": [
           {
-            "id": "4a247fbf",
+            "id": "885917ff",
             "from_name": "label",
             "to_name": "text",
             "type": "labels",
@@ -1045,12 +1254,13 @@
               "text": "pute",
               "labels": [
                 "Dégoût",
-                "Montrée"
+                "Colère",
+                "Montree"
               ]
             }
           },
           {
-            "id": "3ce54e4b",
+            "id": "6b994fcd",
             "from_name": "label",
             "to_name": "text",
             "type": "labels",
@@ -1060,7 +1270,8 @@
               "text": "gouine",
               "labels": [
                 "Dégoût",
-                "Montrée"
+                "Colère",
+                "Montree"
               ]
             }
           }
@@ -1080,7 +1291,28 @@
       "text": "ftg",
       "source": "homophobie_annotations_gold_flat.xlsx"
     },
-    "predictions": []
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "c276813d",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 3,
+              "text": "ftg",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
   },
   {
     "data": {
@@ -1094,7 +1326,43 @@
       "text": "grave vous me degouter",
       "source": "homophobie_annotations_gold_flat.xlsx"
     },
-    "predictions": []
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "ac574e7c",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 5,
+              "text": "grave",
+              "labels": [
+                "Dégoût",
+                "Montree"
+              ]
+            }
+          },
+          {
+            "id": "da07df74",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 6,
+              "end": 22,
+              "text": "vous me degouter",
+              "labels": [
+                "Dégoût",
+                "Designee"
+              ]
+            }
+          }
+        ]
+      }
+    ]
   },
   {
     "data": {
@@ -1120,7 +1388,7 @@
         "model_version": "gold_annotations",
         "result": [
           {
-            "id": "33a31a3c",
+            "id": "7e970062",
             "from_name": "label",
             "to_name": "text",
             "type": "labels",
@@ -1130,7 +1398,7 @@
               "text": "grosse pute",
               "labels": [
                 "Colère",
-                "Montrée"
+                "Montree"
               ]
             }
           }
@@ -1150,7 +1418,92 @@
       "text": "ftg c toi la gouine tu parle avec nous sombre pute wallah t ki",
       "source": "homophobie_annotations_gold_flat.xlsx"
     },
-    "predictions": []
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "b2dc95b9",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 3,
+              "text": "ftg",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          },
+          {
+            "id": "42c23edf",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 13,
+              "end": 19,
+              "text": "gouine",
+              "labels": [
+                "Colère",
+                "Dégoût",
+                "Montree"
+              ]
+            }
+          },
+          {
+            "id": "e1990512",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 39,
+              "end": 50,
+              "text": "sombre pute",
+              "labels": [
+                "Colère",
+                "Dégoût",
+                "Montree"
+              ]
+            }
+          },
+          {
+            "id": "0bdcbcf8",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 13,
+              "end": 19,
+              "text": "gouine",
+              "labels": [
+                "Colère",
+                "Dégoût",
+                "Montree"
+              ]
+            }
+          },
+          {
+            "id": "3ff67f98",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 39,
+              "end": 50,
+              "text": "sombre pute",
+              "labels": [
+                "Colère",
+                "Dégoût",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
   },
   {
     "data": {
@@ -1162,7 +1515,7 @@
         "model_version": "gold_annotations",
         "result": [
           {
-            "id": "dada61b7",
+            "id": "76009c1f",
             "from_name": "label",
             "to_name": "text",
             "type": "labels",
@@ -1172,6 +1525,7 @@
               "text": "on va dire a un gadjo de la violer sa va lui remettre les idée en place",
               "labels": [
                 "Colère",
+                "Autre",
                 "Comportementale"
               ]
             }
@@ -1232,7 +1586,7 @@
         "model_version": "gold_annotations",
         "result": [
           {
-            "id": "58955da8",
+            "id": "4423c0c3",
             "from_name": "label",
             "to_name": "text",
             "type": "labels",
@@ -1242,7 +1596,7 @@
               "text": "t'as des problèmes",
               "labels": [
                 "Colère",
-                "Montrée"
+                "Montree"
               ]
             }
           }
@@ -1267,7 +1621,7 @@
         "model_version": "gold_annotations",
         "result": [
           {
-            "id": "9e4f3a39",
+            "id": "62f9d516",
             "from_name": "label",
             "to_name": "text",
             "type": "labels",
@@ -1277,7 +1631,7 @@
               "text": "tu te rends compte de ce que tu dis là ??",
               "labels": [
                 "Colère",
-                "Montrée"
+                "Montree"
               ]
             }
           }
@@ -1302,7 +1656,7 @@
         "model_version": "gold_annotations",
         "result": [
           {
-            "id": "12b7e8b9",
+            "id": "390b7292",
             "from_name": "label",
             "to_name": "text",
             "type": "labels",
@@ -1312,7 +1666,7 @@
               "text": "ftg",
               "labels": [
                 "Colère",
-                "Montrée"
+                "Montree"
               ]
             }
           }
@@ -1337,7 +1691,7 @@
         "model_version": "gold_annotations",
         "result": [
           {
-            "id": "0436d7df",
+            "id": "d564ffba",
             "from_name": "label",
             "to_name": "text",
             "type": "labels",
@@ -1347,12 +1701,12 @@
               "text": "ta channgé jte croyais pas comme sa quoi toiausssi",
               "labels": [
                 "Dégoût",
-                "Suggérée"
+                "Suggeree"
               ]
             }
           },
           {
-            "id": "72b5b5ab",
+            "id": "382cf456",
             "from_name": "label",
             "to_name": "text",
             "type": "labels",
@@ -1362,12 +1716,13 @@
               "text": "pd",
               "labels": [
                 "Colère",
-                "Montrée"
+                "Dégoût",
+                "Montree"
               ]
             }
           },
           {
-            "id": "139ba082",
+            "id": "3955cddb",
             "from_name": "label",
             "to_name": "text",
             "type": "labels",
@@ -1377,7 +1732,7 @@
               "text": "ptdrrr",
               "labels": [
                 "Joie",
-                "Montrée"
+                "Montree"
               ]
             }
           }
@@ -1395,7 +1750,7 @@
         "model_version": "gold_annotations",
         "result": [
           {
-            "id": "2d7ad4af",
+            "id": "f238e4ac",
             "from_name": "label",
             "to_name": "text",
             "type": "labels",
@@ -1405,12 +1760,12 @@
               "text": "arrêter c'est exessif la",
               "labels": [
                 "Colère",
-                "Montrée"
+                "Montree"
               ]
             }
           },
           {
-            "id": "060ce3e1",
+            "id": "ed3f7373",
             "from_name": "label",
             "to_name": "text",
             "type": "labels",
@@ -1420,12 +1775,12 @@
               "text": "vous aimeriez etre a sa place et qu'on vous dises la meme chose ?!",
               "labels": [
                 "Colère",
-                "Montrée"
+                "Montree"
               ]
             }
           },
           {
-            "id": "534bdfdc",
+            "id": "8be2201c",
             "from_name": "label",
             "to_name": "text",
             "type": "labels",
@@ -1435,7 +1790,7 @@
               "text": "personne ne mérite ca",
               "labels": [
                 "Tristesse",
-                "Suggérée"
+                "Suggeree"
               ]
             }
           }
@@ -1462,14 +1817,101 @@
       "text": " allo le viol c'est pas une blague grosse bouffonne,  va falloir avoir des valeurs un peu là un minimum",
       "source": "homophobie_annotations_gold_flat.xlsx"
     },
-    "predictions": []
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "7283c5e7",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 1,
+              "end": 34,
+              "text": "allo le viol c'est pas une blague",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          },
+          {
+            "id": "9dae6728",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 35,
+              "end": 51,
+              "text": "grosse bouffonne",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          },
+          {
+            "id": "4a3bb06b",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 54,
+              "end": 103,
+              "text": "va falloir avoir des valeurs un peu là un minimum",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
   },
   {
     "data": {
       "text": "laissé la tranquille elle a le droit d'aimer qui elle veut",
       "source": "homophobie_annotations_gold_flat.xlsx"
     },
-    "predictions": []
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "53e434e8",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 20,
+              "text": "laissé la tranquille",
+              "labels": [
+                "Colère",
+                "Comportementale"
+              ]
+            }
+          },
+          {
+            "id": "6b5d68eb",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 21,
+              "end": 58,
+              "text": "elle a le droit d'aimer qui elle veut",
+              "labels": [
+                "Colère",
+                "Suggeree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
   },
   {
     "data": {
@@ -1481,7 +1923,7 @@
         "model_version": "gold_annotations",
         "result": [
           {
-            "id": "9bbfcb18",
+            "id": "8828b01e",
             "from_name": "label",
             "to_name": "text",
             "type": "labels",
@@ -1491,7 +1933,8 @@
               "text": "c une blague",
               "labels": [
                 "Colère",
-                "Montrée"
+                "Dégoût",
+                "Montree"
               ]
             }
           }
@@ -1509,7 +1952,7 @@
         "model_version": "gold_annotations",
         "result": [
           {
-            "id": "03f6d949",
+            "id": "b33d19e8",
             "from_name": "label",
             "to_name": "text",
             "type": "labels",
@@ -1519,12 +1962,12 @@
               "text": "mais grave",
               "labels": [
                 "Colère",
-                "Montrée"
+                "Montree"
               ]
             }
           },
           {
-            "id": "4df7c74a",
+            "id": "7aa9ac5d",
             "from_name": "label",
             "to_name": "text",
             "type": "labels",
@@ -1534,7 +1977,8 @@
               "text": "que des traitres",
               "labels": [
                 "Colère",
-                "Montrée"
+                "Dégoût",
+                "Montree"
               ]
             }
           }
@@ -1559,7 +2003,7 @@
         "model_version": "gold_annotations",
         "result": [
           {
-            "id": "dafa0717",
+            "id": "53f6f0cb",
             "from_name": "label",
             "to_name": "text",
             "type": "labels",
@@ -1569,7 +2013,8 @@
               "text": "si vous ne disiez pas n'importe quoi aussi,  les gens seraient peut-êtr eun peu avec vous",
               "labels": [
                 "Colère",
-                "Suggérée"
+                "Mépris",
+                "Suggeree"
               ]
             }
           }
@@ -1587,7 +2032,7 @@
         "model_version": "gold_annotations",
         "result": [
           {
-            "id": "e966bc5b",
+            "id": "38f84274",
             "from_name": "label",
             "to_name": "text",
             "type": "labels",
@@ -1597,12 +2042,12 @@
               "text": "ptddddrrrrrrr",
               "labels": [
                 "Joie",
-                "Montrée"
+                "Montree"
               ]
             }
           },
           {
-            "id": "34d9cecf",
+            "id": "6a2ffc06",
             "from_name": "label",
             "to_name": "text",
             "type": "labels",
@@ -1612,7 +2057,8 @@
               "text": "mais la blague",
               "labels": [
                 "Joie",
-                "Montrée"
+                "Colère",
+                "Montree"
               ]
             }
           }
@@ -1630,7 +2076,7 @@
         "model_version": "gold_annotations",
         "result": [
           {
-            "id": "42c29c21",
+            "id": "7805b622",
             "from_name": "label",
             "to_name": "text",
             "type": "labels",
@@ -1640,12 +2086,13 @@
               "text": "rien a foutre",
               "labels": [
                 "Colère",
-                "Montrée"
+                "Dégoût",
+                "Montree"
               ]
             }
           },
           {
-            "id": "e562fc32",
+            "id": "7a9d825b",
             "from_name": "label",
             "to_name": "text",
             "type": "labels",
@@ -1655,12 +2102,13 @@
               "text": "PAS DE GOUINE ICI",
               "labels": [
                 "Dégoût",
-                "Montrée"
+                "Colère",
+                "Montree"
               ]
             }
           },
           {
-            "id": "dceac30b",
+            "id": "7b2b6ad8",
             "from_name": "label",
             "to_name": "text",
             "type": "labels",
@@ -1670,7 +2118,24 @@
               "text": "rien a foutre",
               "labels": [
                 "Colère",
-                "Montrée"
+                "Dégoût",
+                "Montree"
+              ]
+            }
+          },
+          {
+            "id": "0c0e022a",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 14,
+              "end": 31,
+              "text": "PAS DE GOUINE ICI",
+              "labels": [
+                "Dégoût",
+                "Colère",
+                "Montree"
               ]
             }
           }
@@ -1688,7 +2153,7 @@
         "model_version": "gold_annotations",
         "result": [
           {
-            "id": "226cd2a4",
+            "id": "a95a7586",
             "from_name": "label",
             "to_name": "text",
             "type": "labels",
@@ -1698,12 +2163,13 @@
               "text": "bande de crasseux",
               "labels": [
                 "Colère",
-                "Montrée"
+                "Dégoût",
+                "Montree"
               ]
             }
           },
           {
-            "id": "37951611",
+            "id": "90ec83e0",
             "from_name": "label",
             "to_name": "text",
             "type": "labels",
@@ -1718,7 +2184,7 @@
             }
           },
           {
-            "id": "f3d8821f",
+            "id": "1c2a7b79",
             "from_name": "label",
             "to_name": "text",
             "type": "labels",
@@ -1728,7 +2194,8 @@
               "text": "bande de crasseux",
               "labels": [
                 "Colère",
-                "Montrée"
+                "Dégoût",
+                "Montree"
               ]
             }
           }
@@ -1741,28 +2208,144 @@
       "text": " mais vous allez trop loin,  vous dites n'importes quoi alors vous méritez les deux connasses",
       "source": "homophobie_annotations_gold_flat.xlsx"
     },
-    "predictions": []
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "a1165757",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 6,
+              "end": 26,
+              "text": "vous allez trop loin",
+              "labels": [
+                "Colère",
+                "Suggeree"
+              ]
+            }
+          },
+          {
+            "id": "a9cb2d20",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 62,
+              "end": 93,
+              "text": "vous méritez les deux connasses",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
   },
   {
     "data": {
       "text": "on va pas de sa iciiiii merde",
       "source": "homophobie_annotations_gold_flat.xlsx"
     },
-    "predictions": []
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "d525f881",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 24,
+              "end": 29,
+              "text": "merde",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
   },
   {
     "data": {
       "text": "STOP LESBIENNES !!!!",
       "source": "homophobie_annotations_gold_flat.xlsx"
     },
-    "predictions": []
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "3f582caf",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 20,
+              "text": "STOP LESBIENNES !!!!",
+              "labels": [
+                "Colère",
+                "Dégoût",
+                "Montree"
+              ]
+            }
+          },
+          {
+            "id": "9c1bd3a5",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 20,
+              "text": "STOP LESBIENNES !!!!",
+              "labels": [
+                "Colère",
+                "Dégoût",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
   },
   {
     "data": {
       "text": "DEHORSSSSS",
       "source": "homophobie_annotations_gold_flat.xlsx"
     },
-    "predictions": []
+    "predictions": [
+      {
+        "model_version": "gold_annotations",
+        "result": [
+          {
+            "id": "18d17489",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 0,
+              "end": 10,
+              "text": "DEHORSSSSS",
+              "labels": [
+                "Colère",
+                "Montree"
+              ]
+            }
+          }
+        ]
+      }
+    ]
   },
   {
     "data": {
@@ -1788,7 +2371,7 @@
         "model_version": "gold_annotations",
         "result": [
           {
-            "id": "7e45903e",
+            "id": "dc7b1ba4",
             "from_name": "label",
             "to_name": "text",
             "type": "labels",
@@ -1803,7 +2386,7 @@
             }
           },
           {
-            "id": "9d2cb872",
+            "id": "4ebe2ce4",
             "from_name": "label",
             "to_name": "text",
             "type": "labels",
@@ -1813,7 +2396,8 @@
               "text": "homophobes",
               "labels": [
                 "Colère",
-                "Suggérée"
+                "Dégoût",
+                "Suggeree"
               ]
             }
           }

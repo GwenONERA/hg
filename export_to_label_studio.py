@@ -6,6 +6,17 @@ import os
 def load_data(file_path):
     return pd.read_excel(file_path)
 
+mode_map = {
+    "comportementale": "Comportementale",
+    "désignée": "Designee",
+    "designée": "Designee",
+    "designee": "Designee",
+    "montrée": "Montree",
+    "montree": "Montree",
+    "suggérée": "Suggeree",
+    "suggeree": "Suggeree"
+}
+
 def process_file(file_path):
     if not os.path.exists(file_path):
         print(f"File not found: {file_path}")
@@ -29,25 +40,32 @@ def process_file(file_path):
         }
         results = []
         
-        for i in range(1, 4):
-            span_col = f'span{i}_text'
-            cat_col = f'span{i}_cat'
-            mode_col = f'span{i}_mode'
-            
-            if span_col in df.columns:
-                span_text = row[span_col]
-                if pd.notna(span_text) and str(span_text).strip() != "":
-                    span_text = str(span_text)
-                    start_idx = text.find(span_text)
+        if 'spans_json' in df.columns and pd.notna(row['spans_json']):
+            try:
+                spans = json.loads(row['spans_json'])
+                for span_info in spans:
+                    span_text = span_info.get('span_text', '')
+                    if not span_text or span_text.strip() == "":
+                        continue
                     
+                    start_idx = text.find(span_text)
                     if start_idx != -1:
                         end_idx = start_idx + len(span_text)
                         
                         labels = []
-                        if cat_col in df.columns and pd.notna(row[cat_col]) and str(row[cat_col]).strip() != "":
-                            labels.append(str(row[cat_col]).strip())
-                        if mode_col in df.columns and pd.notna(row[mode_col]) and str(row[mode_col]).strip() != "":
-                            labels.append(str(row[mode_col]).strip())
+                        cat = span_info.get('categorie')
+                        if cat and str(cat).strip() != "":
+                            labels.append(str(cat).strip())
+                            
+                        cat2 = span_info.get('categorie2')
+                        if pd.notna(cat2) and cat2 and str(cat2).strip() != "":
+                            labels.append(str(cat2).strip())
+                            
+                        mode = span_info.get('mode')
+                        if mode and str(mode).strip() != "":
+                            m_clean = str(mode).strip().lower()
+                            # Normalise vers les étiquettes sans accents attendues par l'XML Label Studio
+                            labels.append(mode_map.get(m_clean, str(mode).strip()))
                             
                         if labels:
                             result = {
@@ -65,8 +83,9 @@ def process_file(file_path):
                             results.append(result)
                     else:
                         print(f"Warning: Span '{span_text}' not found in original text for row {idx} in {file_path}.")
+            except Exception as e:
+                print(f"Error parsing spans_json for row {idx}: {e}")
                         
-        # Même s'il n'y a pas de prédictions, on peut importer la tâche pour l'avoir dans Label Studio.
         if results:
             task["predictions"].append({
                 "model_version": "gold_annotations",
