@@ -17,24 +17,40 @@ mode_map = {
     "suggeree": "Suggeree"
 }
 
-def process_file(file_path):
-    if not os.path.exists(file_path):
-        print(f"File not found: {file_path}")
+import argparse
+
+def parse_args():
+    parser = argparse.ArgumentParser(description="Convertit un XLSX gold_flat en JSON importable dans Label Studio.")
+    parser.add_argument("--input", required=True, help="Chemin vers le fichier XLSX source")
+    parser.add_argument("--output", default=None, help="Chemin du fichier JSON de sortie (défaut: <input>_import.json)")
+    return parser.parse_args()
+
+def main():
+    args = parse_args()
+    input_file = os.path.abspath(args.input)
+    
+    if args.output:
+        output_file = os.path.abspath(args.output)
+    else:
+        output_file = input_file.replace(".xlsx", "_import.json")
+        
+    if not os.path.exists(input_file):
+        print(f"File not found: {input_file}")
         return
         
-    print(f"Processing {file_path}...")
-    df = load_data(file_path)
+    print(f"Processing {input_file}...")
+    df = load_data(input_file)
     tasks = []
     
     for idx, row in df.iterrows():
-        text = str(row['TEXT'])
+        text = str(row.get('TEXT', ''))
         if pd.isna(text) or text.strip() == "" or text == "nan":
             continue
             
         task = {
             "data": {
                 "text": text,
-                "source": os.path.basename(file_path)
+                "source": os.path.basename(input_file)
             },
             "predictions": []
         }
@@ -82,7 +98,7 @@ def process_file(file_path):
                             }
                             results.append(result)
                     else:
-                        print(f"Warning: Span '{span_text}' not found in original text for row {idx} in {file_path}.")
+                        print(f"Warning: Span '{span_text}' not found in original text for row {idx} in {input_file}.")
             except Exception as e:
                 print(f"Error parsing spans_json for row {idx}: {e}")
                         
@@ -94,19 +110,11 @@ def process_file(file_path):
         
         tasks.append(task)
         
-    output_file = file_path.replace(".xlsx", "_import.json")
+    os.makedirs(os.path.dirname(output_file) or ".", exist_ok=True)
     with open(output_file, 'w', encoding='utf-8') as f:
         json.dump(tasks, f, ensure_ascii=False, indent=2)
         
     print(f"Successfully exported {len(tasks)} tasks to {output_file}")
 
 if __name__ == "__main__":
-    files = [
-        "religion_annotations_gold_flat.xlsx",
-        "racisme_annotations_gold_flat.xlsx",
-        "obésité_annotations_gold_flat.xlsx",
-        "homophobie_annotations_gold_flat.xlsx"
-    ]
-    
-    for f in files:
-        process_file(f)
+    main()
